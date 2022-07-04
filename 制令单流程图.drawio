@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T07:30:23.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="20.0.4" etag="4BMHb6WoF1bv5lxYfDLC" type="github"><diagram id="-Thg3NojDzIJrcwwlIQT">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-04T07:41:41.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="tD47LuKejs-POe9dEGJB" version="20.0.4" type="github">
+  <diagram id="-Thg3NojDzIJrcwwlIQT" name="第 1 页">
+    <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hDiWv1VCaaJJprRobRn7-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="246" y="380" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hDiWv1VCaaJJprRobRn7-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="261" y="880" as="sourcePoint" />
+            <mxPoint x="261" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hDiWv1VCaaJJprRobRn7-3" value="saas系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=50;" vertex="1" parent="1">
+          <mxGeometry x="340" y="380" width="100" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="hDiWv1VCaaJJprRobRn7-5" value="控制器" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=50;" vertex="1" parent="1">
+          <mxGeometry x="490" y="380" width="100" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="hDiWv1VCaaJJprRobRn7-6" value="业务层" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=50;" vertex="1" parent="1">
+          <mxGeometry x="650" y="380" width="100" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="hDiWv1VCaaJJprRobRn7-7" value="Dao层" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=50;" vertex="1" parent="1">
+          <mxGeometry x="790" y="380" width="100" height="500" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
