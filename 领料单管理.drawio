@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T06:21:40.752Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="mTzJVrEtFl0Z0liJSI6o" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T06:21:52.230Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="wYdgmICc4A2Jn4fQ-my0" version="20.0.4" type="github">
   <diagram id="xlohX5uGrIqMuey9pC1b" name="第 1 页">
     <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -177,7 +177,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZMJ4QWcKe9mKEY3MmXeL-78" value="领料单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="570" y="1772" width="60" height="30" as="geometry" />
+          <mxGeometry x="560" y="1770" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZMJ4QWcKe9mKEY3MmXeL-79" value="t_material_requisition_list" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="1480" width="180" height="180" as="geometry" />
