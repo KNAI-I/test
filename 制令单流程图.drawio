@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T09:04:35.230Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="DV1Ayb98WXghbzr2KdHn" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T09:09:52.143Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="tlvRIQQEPVMW80aD-w7S" version="20.0.4" type="github">
   <diagram id="-Thg3NojDzIJrcwwlIQT" name="第 1 页">
     <mxGraphModel dx="1673" dy="925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -26,10 +26,13 @@
           <mxGeometry x="560" y="411" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zCkPLSWbQm5JxwFreFaJ-51" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="723" y="526" width="40" height="30" as="geometry" />
+          <mxGeometry x="742" y="483" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zCkPLSWbQm5JxwFreFaJ-52" value="查询班组人员信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="891" y="413" width="149" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="zCkPLSWbQm5JxwFreFaJ-54" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="645" y="585.3" width="149.5" height="89.7" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
