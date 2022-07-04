@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T02:16:37.343Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="c2KwS59ayAmPW4lvvWhS" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T03:13:10.453Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="tVIr7XSg34kOtcgg7CjD" version="20.0.4" type="github">
   <diagram id="XuzZ9nvIXCZ4jduUd2rL" name="第 1 页">
     <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -595,10 +595,10 @@
           <mxGeometry x="375" y="1511" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BlTvL9HwPZBcn6mdUksr-140" value="工序汇报" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="85" y="1990" width="70" height="30" as="geometry" />
+          <mxGeometry x="385" y="1902" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BlTvL9HwPZBcn6mdUksr-141" value="质检单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="385" y="1902" width="60" height="30" as="geometry" />
+          <mxGeometry x="90" y="1990" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BlTvL9HwPZBcn6mdUksr-142" value="t_rework_bill" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="1151" width="220" height="390" as="geometry" />
