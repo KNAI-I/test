@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T01:46:17.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="PCypshqt903okjO4_fn2" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-05T01:46:39.845Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="bKvtKp9HRiVDHq77AP3A" version="20.0.4" type="github">
   <diagram id="UtX-yBfO-ybP-oYsqEdY" name="第 1 页">
     <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="cR7EDDmq7v_sF_uvXE_5-7" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="921" y="640" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cR7EDDmq7v_sF_uvXE_5-8" value="根据产品BOM和&lt;br&gt;领取数量&lt;br&gt;计算需领数量" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="cR7EDDmq7v_sF_uvXE_5-8" value="根据产品BOM和&lt;br&gt;领取数量&lt;br&gt;计算需领物料数量" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="895.75" y="717" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cR7EDDmq7v_sF_uvXE_5-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="1">
