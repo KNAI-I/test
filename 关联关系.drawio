@@ -1,1 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T02:53:00.390Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="20.0.4" etag="eK2xFxvMfsD0nGGo88h5" type="github"><diagram id="hM2SDoxnbh2Bvzxodgqe">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-05T03:04:25.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="9OkaxvB2YItpL14E0yVV" version="20.0.4" type="github">
+  <diagram id="hM2SDoxnbh2Bvzxodgqe" name="第 1 页">
+    <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ckxIVoQjhivs-84Mz3xd-2" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;mes&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="656" y="412" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ckxIVoQjhivs-84Mz3xd-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;工序&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="450" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ckxIVoQjhivs-84Mz3xd-5" value="班次" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="490" y="511" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ckxIVoQjhivs-84Mz3xd-6" value="班组" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="826" y="563" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ckxIVoQjhivs-84Mz3xd-7" value="人工" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="860" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ckxIVoQjhivs-84Mz3xd-8" value="设备" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="649" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ckxIVoQjhivs-84Mz3xd-9" value="" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;fontSize=15;exitX=0.558;exitY=1.013;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ckxIVoQjhivs-84Mz3xd-8" target="ckxIVoQjhivs-84Mz3xd-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="400" as="sourcePoint" />
+            <mxPoint x="800" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ckxIVoQjhivs-84Mz3xd-10" value="n" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;fontSize=15;" connectable="0" vertex="1" parent="ckxIVoQjhivs-84Mz3xd-9">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="-14" y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ckxIVoQjhivs-84Mz3xd-11" value="1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;fontSize=15;" connectable="0" vertex="1" parent="ckxIVoQjhivs-84Mz3xd-9">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-4" y="-46" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
