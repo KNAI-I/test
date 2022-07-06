@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T09:02:31.498Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="euncABWkUSLQ7l1Tc_z0" version="20.0.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-07-06T09:09:39.819Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Rvx4No1VGYTX5HXYUXqz" version="20.0.4" type="github" pages="5">
   <diagram id="hmyyFv3jOfm9jRoea6JP" name="制令单管理">
     <mxGraphModel dx="1822" dy="-14" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -177,7 +177,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6y0-Wkz-rXFCGMV0lJAE-41" value="mes_prod_order_report" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="1110" width="219" height="299.5" as="geometry" />
+          <mxGeometry x="110" y="1120" width="219" height="299.5" as="geometry" />
         </mxCell>
         <mxCell id="6y0-Wkz-rXFCGMV0lJAE-42" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="6y0-Wkz-rXFCGMV0lJAE-41">
           <mxGeometry y="30" width="219" height="30" as="geometry" />
@@ -287,7 +287,7 @@
           <mxGeometry x="-260" y="1480" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6y0-Wkz-rXFCGMV0lJAE-70" value="工序汇报" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="184.5" y="1379.5" width="70" height="30" as="geometry" />
+          <mxGeometry x="184.5" y="1389.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6y0-Wkz-rXFCGMV0lJAE-71" value="mes_prod_order_report_list" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="1120.25" width="209" height="210" as="geometry" />
@@ -359,6 +359,22 @@
         </mxCell>
         <mxCell id="6y0-Wkz-rXFCGMV0lJAE-81" value="工序汇报列表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="534.5" y="1300.25" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="08GcZpcbx4hIDoykzLeN-1" value="" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6y0-Wkz-rXFCGMV0lJAE-51" target="6y0-Wkz-rXFCGMV0lJAE-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="1320" as="sourcePoint" />
+            <mxPoint x="280" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="08GcZpcbx4hIDoykzLeN-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;n&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;" connectable="0" vertex="1" parent="08GcZpcbx4hIDoykzLeN-1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="-26" y="-31" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="08GcZpcbx4hIDoykzLeN-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;1&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;" connectable="0" vertex="1" parent="08GcZpcbx4hIDoykzLeN-1">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="24" y="-29" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
