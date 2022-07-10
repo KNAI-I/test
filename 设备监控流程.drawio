@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-07-08T10:39:31.825Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="7W05n8gHvF-0EftBoch8" version="20.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-10T06:24:00.954Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="jtNeVJxYklK-DoJlVLtW" version="20.0.4" type="github" pages="2">
   <diagram id="hpvqqFq_v_p_thIel57g" name="第 1 页">
-    <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1424" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zwQavoFQW24ZlYIbycaL-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="640" width="439" height="559" as="geometry" />
+          <mxGeometry x="320" y="640" width="280" height="559" as="geometry" />
         </mxCell>
         <mxCell id="zwQavoFQW24ZlYIbycaL-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="640" width="442" height="560" as="geometry" />
+          <mxGeometry x="962" y="640" width="442" height="560" as="geometry" />
         </mxCell>
         <mxCell id="zwQavoFQW24ZlYIbycaL-39" value="前端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="514.5" y="1153" width="50" height="30" as="geometry" />
+          <mxGeometry x="445" y="1153" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zwQavoFQW24ZlYIbycaL-40" value="后端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1251" y="1153" width="50" height="30" as="geometry" />
@@ -20,19 +20,46 @@
           <mxGeometry x="120" y="679" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zwQavoFQW24ZlYIbycaL-43" value="携带用户&lt;br&gt;唯一标识" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="852" y="689" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="679" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zwQavoFQW24ZlYIbycaL-48" value="用户登录" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="496" y="689" width="120" height="60" as="geometry" />
+        <mxCell id="zwQavoFQW24ZlYIbycaL-48" value="WebSockte" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="679" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zwQavoFQW24ZlYIbycaL-50" value="neety建立连接" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1119" y="689" width="120" height="60" as="geometry" />
+        <mxCell id="zwQavoFQW24ZlYIbycaL-50" value="Neety建立连接" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1119" y="679" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zwQavoFQW24ZlYIbycaL-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zwQavoFQW24ZlYIbycaL-43" target="zwQavoFQW24ZlYIbycaL-50" edge="1">
+        <mxCell id="Biv73hC71Af1dGBNvqkB-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zwQavoFQW24ZlYIbycaL-48" target="zwQavoFQW24ZlYIbycaL-43">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="942" y="950" as="sourcePoint" />
-            <mxPoint x="992" y="900" as="targetPoint" />
+            <mxPoint x="780" y="930" as="sourcePoint" />
+            <mxPoint x="830" y="880" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Biv73hC71Af1dGBNvqkB-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zwQavoFQW24ZlYIbycaL-43" target="zwQavoFQW24ZlYIbycaL-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="930" as="sourcePoint" />
+            <mxPoint x="830" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Biv73hC71Af1dGBNvqkB-4" value="自定义通道管理器，将Channel与用户信息绑定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1119" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Biv73hC71Af1dGBNvqkB-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zwQavoFQW24ZlYIbycaL-50" target="Biv73hC71Af1dGBNvqkB-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="930" as="sourcePoint" />
+            <mxPoint x="830" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Biv73hC71Af1dGBNvqkB-7" value="触发连接成功事件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1119" y="860" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Biv73hC71Af1dGBNvqkB-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Biv73hC71Af1dGBNvqkB-4" target="Biv73hC71Af1dGBNvqkB-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="1010" as="sourcePoint" />
+            <mxPoint x="830" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Biv73hC71Af1dGBNvqkB-9" value="进入neety中的&lt;br&gt;ChannelActive动作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1119" y="910" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
