@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-10T10:02:57.402Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="c1XhQ-VEhT8eNvbMWksD" version="20.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-10T10:03:10.435Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="WTSSW2Et51z2f3q2l8kK" version="20.0.4" type="github" pages="2">
   <diagram id="hpvqqFq_v_p_thIel57g" name="第 1 页">
     <mxGraphModel dx="1424" dy="786" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -293,6 +293,12 @@
         </mxCell>
         <mxCell id="cA8lqJx_Ih_qzmOlqFho-1" value="返回设备监控数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b-vNYzFyaRpoN7wCLJu8-31">
           <mxGeometry x="80" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cA8lqJx_Ih_qzmOlqFho-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="b-vNYzFyaRpoN7wCLJu8-31" source="b-vNYzFyaRpoN7wCLJu8-32" target="cA8lqJx_Ih_qzmOlqFho-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-170" y="390" as="sourcePoint" />
+            <mxPoint x="-120" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="b-vNYzFyaRpoN7wCLJu8-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="b-vNYzFyaRpoN7wCLJu8-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
