@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-10T07:31:21.778Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="f0KwCMg2vDQMRivaZy5c" version="20.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-10T07:33:00.288Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="O64aiHXCES3EgiLHD4_U" version="20.0.4" type="github" pages="2">
   <diagram id="hpvqqFq_v_p_thIel57g" name="第 1 页">
     <mxGraphModel dx="1424" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="zwQavoFQW24ZlYIbycaL-48" value="WebSockte" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="322" y="679" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zwQavoFQW24ZlYIbycaL-50" value="Neety建立连接" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="zwQavoFQW24ZlYIbycaL-50" value="Netty建立连接" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="762" y="679" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Biv73hC71Af1dGBNvqkB-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zwQavoFQW24ZlYIbycaL-48" target="zwQavoFQW24ZlYIbycaL-43">
@@ -61,7 +61,7 @@
         <mxCell id="Biv73hC71Af1dGBNvqkB-12" value="自定义通道管理器，将Channel与用户信息绑定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="762" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Biv73hC71Af1dGBNvqkB-13" value="进入neety中的&lt;br&gt;ChannelActive动作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Biv73hC71Af1dGBNvqkB-13" value="进入Netty中的&lt;br&gt;ChannelActive动作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="766" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Biv73hC71Af1dGBNvqkB-16" value="设备监控页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -82,7 +82,7 @@
             <mxPoint x="790" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Biv73hC71Af1dGBNvqkB-23" value="Neety" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="Biv73hC71Af1dGBNvqkB-23" value="Netty" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="687" y="640" width="273" height="720" as="geometry" />
         </mxCell>
         <mxCell id="Biv73hC71Af1dGBNvqkB-25" value="MES" style="swimlane;" vertex="1" parent="1">
