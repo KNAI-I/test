@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-10T09:59:32.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="3eqdm89uYx1mwhXJayvs" version="20.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-10T10:00:03.820Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="xG_eKiiKG8Y8VAakYD_r" version="20.0.4" type="github" pages="2">
   <diagram id="hpvqqFq_v_p_thIel57g" name="第 1 页">
     <mxGraphModel dx="1424" dy="786" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -270,7 +270,7 @@
             <mxPoint x="790" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b-vNYzFyaRpoN7wCLJu8-19" value="Netty" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="b-vNYzFyaRpoN7wCLJu8-19" value="WebSockte" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="687" y="640" width="273" height="720" as="geometry" />
         </mxCell>
         <mxCell id="b-vNYzFyaRpoN7wCLJu8-20" value="进入Websockte中&lt;br&gt;的onOpen&lt;span style=&quot;background-color: initial; text-align: start;&quot;&gt;动作&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b-vNYzFyaRpoN7wCLJu8-19">
