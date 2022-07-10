@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-10T07:10:02.133Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="3sWlpuqk4TENhYC06NAm" version="20.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-10T07:12:03.524Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Qcf9N7jzGK1QvAEZPkgB" version="20.0.4" type="github" pages="2">
   <diagram id="hpvqqFq_v_p_thIel57g" name="第 1 页">
     <mxGraphModel dx="1424" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -94,11 +94,14 @@
         <mxCell id="Biv73hC71Af1dGBNvqkB-25" value="MES" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="887" y="640" width="200" height="720" as="geometry" />
         </mxCell>
-        <mxCell id="Biv73hC71Af1dGBNvqkB-30" value="Vertical Container" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="1087" y="1000" width="200" height="360" as="geometry" />
-        </mxCell>
-        <mxCell id="Biv73hC71Af1dGBNvqkB-31" value="Vertical Container" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="Biv73hC71Af1dGBNvqkB-30" value="MRO" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="1087" y="640" width="200" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Biv73hC71Af1dGBNvqkB-32" value="设备监控信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Biv73hC71Af1dGBNvqkB-30">
+          <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Biv73hC71Af1dGBNvqkB-31" value="Redis" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="1087" y="1000" width="200" height="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
