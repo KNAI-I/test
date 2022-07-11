@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T02:23:49.392Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="NgenJBnGCdH8c3s2mi3w" version="20.0.4" type="github">
-  <diagram id="T7yxF0fK-NxQaQUTbsaz" name="第 1 页">
+<mxfile host="app.diagrams.net" modified="2022-07-11T02:50:19.411Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="cU9HJvi8U-xkLA8GXRfJ" version="20.0.4" type="github">
+  <diagram id="T7yxF0fK-NxQaQUTbsaz" name="领料单">
     <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -53,7 +53,7 @@
           <mxGeometry y="372" width="230" height="26" as="geometry" />
         </mxCell>
         <mxCell id="19j3Fjk5tVB57wRqXp3--20" value="ProdOrderReport" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="280" width="230" height="268" as="geometry" />
+          <mxGeometry x="595" y="345" width="230" height="268" as="geometry" />
         </mxCell>
         <mxCell id="19j3Fjk5tVB57wRqXp3--21" value="- reportId：String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="19j3Fjk5tVB57wRqXp3--20">
           <mxGeometry y="26" width="230" height="26" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry y="242" width="230" height="26" as="geometry" />
         </mxCell>
         <mxCell id="19j3Fjk5tVB57wRqXp3--36" value="ProdOrderReportItem" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="840" y="280" width="230" height="190" as="geometry" />
+          <mxGeometry x="950" y="384" width="230" height="190" as="geometry" />
         </mxCell>
         <mxCell id="19j3Fjk5tVB57wRqXp3--37" value="- reportItemId：String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="19j3Fjk5tVB57wRqXp3--36">
           <mxGeometry y="26" width="230" height="26" as="geometry" />
