@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T02:15:04.931Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="4CFU-xGdk9bgmPBqFa66" version="20.0.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-07-12T02:19:25.126Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="dS8MNtfuQzf6ZwcbskFG" version="20.0.4" type="github" pages="4">
   <diagram id="T7yxF0fK-NxQaQUTbsaz" name="领料单">
     <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -708,10 +708,10 @@
         <mxCell id="-cyezWgUj_Rv1TIUrKFB-4" value="- requisitionNo：String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;" vertex="1" parent="-cyezWgUj_Rv1TIUrKFB-1">
           <mxGeometry y="316" width="200" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="-cyezWgUj_Rv1TIUrKFB-15" value="MrfList" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+        <mxCell id="-cyezWgUj_Rv1TIUrKFB-15" value="MrfItem" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="641" y="857" width="200" height="202" as="geometry" />
         </mxCell>
-        <mxCell id="-cyezWgUj_Rv1TIUrKFB-17" value="- mrListId：String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;" vertex="1" parent="-cyezWgUj_Rv1TIUrKFB-15">
+        <mxCell id="-cyezWgUj_Rv1TIUrKFB-17" value="- mrfItemId：String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;" vertex="1" parent="-cyezWgUj_Rv1TIUrKFB-15">
           <mxGeometry y="30" width="200" height="26" as="geometry" />
         </mxCell>
         <mxCell id="-cyezWgUj_Rv1TIUrKFB-18" value="- requisitionId：String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;" vertex="1" parent="-cyezWgUj_Rv1TIUrKFB-15">
@@ -745,19 +745,19 @@
         <mxCell id="-qS3Eb2rIscGQL_CD2AZ-4" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontSize=13;" vertex="1" parent="-qS3Eb2rIscGQL_CD2AZ-2">
           <mxGeometry y="52" width="350" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="-qS3Eb2rIscGQL_CD2AZ-5" value="+ saveMRF (MaterialRequisitionForm , List&lt;MrfList&gt;)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;" vertex="1" parent="-qS3Eb2rIscGQL_CD2AZ-2">
+        <mxCell id="-qS3Eb2rIscGQL_CD2AZ-5" value="+ saveMrf (MaterialRequisitionForm , List&lt;MrfList&gt;)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;" vertex="1" parent="-qS3Eb2rIscGQL_CD2AZ-2">
           <mxGeometry y="60" width="350" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="avOnxpOmIfUwGRq29XS1-4" value="+ editMRF (MaterialRequisitionForm)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;" vertex="1" parent="-qS3Eb2rIscGQL_CD2AZ-2">
+        <mxCell id="avOnxpOmIfUwGRq29XS1-4" value="+ editMrf (MaterialRequisitionForm)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;" vertex="1" parent="-qS3Eb2rIscGQL_CD2AZ-2">
           <mxGeometry y="86" width="350" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="avOnxpOmIfUwGRq29XS1-3" value="+ deleteMRF (requisitionId)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;" vertex="1" parent="-qS3Eb2rIscGQL_CD2AZ-2">
+        <mxCell id="avOnxpOmIfUwGRq29XS1-3" value="+ deleteMrf (requisitionId)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;" vertex="1" parent="-qS3Eb2rIscGQL_CD2AZ-2">
           <mxGeometry y="112" width="350" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="avOnxpOmIfUwGRq29XS1-2" value="+ get" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;" vertex="1" parent="-qS3Eb2rIscGQL_CD2AZ-2">
+        <mxCell id="avOnxpOmIfUwGRq29XS1-2" value="+ getMrfLists (dto)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;" vertex="1" parent="-qS3Eb2rIscGQL_CD2AZ-2">
           <mxGeometry y="138" width="350" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="avOnxpOmIfUwGRq29XS1-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;" vertex="1" parent="-qS3Eb2rIscGQL_CD2AZ-2">
+        <mxCell id="avOnxpOmIfUwGRq29XS1-1" value="+ getMrfInfo (requisitionId)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;" vertex="1" parent="-qS3Eb2rIscGQL_CD2AZ-2">
           <mxGeometry y="164" width="350" height="26" as="geometry" />
         </mxCell>
       </root>
