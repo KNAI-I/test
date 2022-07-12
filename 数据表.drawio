@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T06:20:56.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="1YN_BYITMox2SfjRIhB2" version="20.0.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-07-12T07:20:50.318Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="5x1thRfPPCzD__zEaaQS" version="20.0.4" type="github" pages="6">
   <diagram id="hmyyFv3jOfm9jRoea6JP" name="制令单管理">
     <mxGraphModel dx="1822" dy="-14" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="2336" background="none" math="0" shadow="0">
       <root>
@@ -177,7 +177,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6y0-Wkz-rXFCGMV0lJAE-41" value="mes_prod_order_report" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="119" y="1120" width="219" height="299.5" as="geometry" />
+          <mxGeometry x="118" y="1120" width="219" height="299.5" as="geometry" />
         </mxCell>
         <mxCell id="6y0-Wkz-rXFCGMV0lJAE-42" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="6y0-Wkz-rXFCGMV0lJAE-41" vertex="1">
           <mxGeometry y="30" width="219" height="30" as="geometry" />
@@ -617,7 +617,7 @@
             <mxRectangle width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ddVIk-TYZ5xz8Fzqt9mK-54" value="longtext" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" parent="ddVIk-TYZ5xz8Fzqt9mK-52" vertex="1">
+        <mxCell id="ddVIk-TYZ5xz8Fzqt9mK-54" value="varchar" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" parent="ddVIk-TYZ5xz8Fzqt9mK-52" vertex="1">
           <mxGeometry x="110" width="110" height="30" as="geometry">
             <mxRectangle width="110" height="30" as="alternateBounds" />
           </mxGeometry>
