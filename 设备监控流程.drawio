@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T05:45:22.739Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="1VfKjxslPe8PkwhdD_x1" version="20.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-12T05:55:29.504Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="bIs3nxfZ8zHhz-wK5Y0X" version="20.0.4" type="github" pages="2">
   <diagram id="hpvqqFq_v_p_thIel57g" name="第 1 页">
     <mxGraphModel dx="1424" dy="786" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -286,7 +286,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="b-vNYzFyaRpoN7wCLJu8-31" value="MRO" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="960" y="640" width="280" height="720" as="geometry" />
+          <mxGeometry x="960" y="640" width="290" height="720" as="geometry" />
         </mxCell>
         <mxCell id="cA8lqJx_Ih_qzmOlqFho-1" value="返回设备监控数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b-vNYzFyaRpoN7wCLJu8-31">
           <mxGeometry x="55" y="613" width="120" height="60" as="geometry" />
@@ -324,9 +324,12 @@
             <mxPoint x="-221" y="323" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b-vNYzFyaRpoN7wCLJu8-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="b-vNYzFyaRpoN7wCLJu8-17">
+        <mxCell id="uwH7Cdd4hZSzHmhoXJE1-22" value="&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 两种情况返回数据：&lt;/b&gt;&lt;br&gt;1）SCADA主动推送数据返回&lt;br&gt;2）用户首次进入页面，&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 或者刷新页面获取数据&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="b-vNYzFyaRpoN7wCLJu8-31">
+          <mxGeometry x="116" y="261" width="174" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="b-vNYzFyaRpoN7wCLJu8-43" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cA8lqJx_Ih_qzmOlqFho-1" target="b-vNYzFyaRpoN7wCLJu8-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1038" y="1283" as="sourcePoint" />
+            <mxPoint x="1006" y="1291" as="sourcePoint" />
             <mxPoint x="860" y="973" as="targetPoint" />
           </mxGeometry>
         </mxCell>
