@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-21T02:35:34.753Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="TK0CDqBaBnSv9drAxsY5" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-21T03:30:42.432Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="fM0dJnvWsUyARaWMS-LI" version="20.1.1" type="github">
   <diagram id="j4TvrrBdSwMLVQ22CCwC" name="第 1 页">
     <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -13,22 +13,46 @@
         <mxCell id="BvN8Ly658PgCMxztOEhY-14" value="ProductionService" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=60;" vertex="1" parent="1">
           <mxGeometry x="760" y="200" width="120" height="680" as="geometry" />
         </mxCell>
-        <mxCell id="BvN8Ly658PgCMxztOEhY-15" value="点击新增/编辑按钮" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;" edge="1" parent="1" target="BvN8Ly658PgCMxztOEhY-13">
-          <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="120" y="320" as="sourcePoint" />
-            <mxPoint x="180" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BvN8Ly658PgCMxztOEhY-16" value="ProductionController" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=60;" vertex="1" parent="1">
           <mxGeometry x="520" y="200" width="120" height="680" as="geometry" />
         </mxCell>
-        <mxCell id="BvN8Ly658PgCMxztOEhY-22" value="&lt;span style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp;发送请求：&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;1)新增不携带Id&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;2)编辑携带Id&lt;/span&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;" edge="1" parent="1" source="BvN8Ly658PgCMxztOEhY-13" target="BvN8Ly658PgCMxztOEhY-16">
-          <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="670" y="500" as="sourcePoint" />
-            <mxPoint x="730" y="500" as="targetPoint" />
+        <mxCell id="BvN8Ly658PgCMxztOEhY-31" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="BvN8Ly658PgCMxztOEhY-16">
+          <mxGeometry x="55" y="201" width="10" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="BvN8Ly658PgCMxztOEhY-34" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="BvN8Ly658PgCMxztOEhY-16">
+          <mxGeometry x="55" y="240" width="10" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="BvN8Ly658PgCMxztOEhY-35" value="验证数据" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="BvN8Ly658PgCMxztOEhY-34" parent="BvN8Ly658PgCMxztOEhY-16">
+          <mxGeometry x="0.04" relative="1" as="geometry">
+            <mxPoint x="65" y="221" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="540" y="400" />
+              <mxPoint x="95" y="221" />
             </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BvN8Ly658PgCMxztOEhY-30" value="点击新增/编辑按钮" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="119.5" y="320" as="sourcePoint" />
+            <mxPoint x="340" y="320" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BvN8Ly658PgCMxztOEhY-32" value="&lt;span style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp;发送请求：&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;1)新增不携带Id&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;2)编辑携带Id&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="BvN8Ly658PgCMxztOEhY-31" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="339.5" y="401" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BvN8Ly658PgCMxztOEhY-33" value="N:返回错误信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=0;exitY=0.974;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="339.5" y="480" as="targetPoint" />
+            <mxPoint x="575" y="478.9860000000001" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BvN8Ly658PgCMxztOEhY-37" value="Y：调用" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=1;exitY=1.051;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="BvN8Ly658PgCMxztOEhY-14">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="585" y="478.98900000000003" as="sourcePoint" />
+            <mxPoint x="819.5" y="478.00299999999993" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
