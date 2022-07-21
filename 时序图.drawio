@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-21T02:27:35.582Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Fw7xy-c6dauRgA-KLnFS" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-21T02:30:40.832Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="6v9olKHb9F6KKkLlZz68" version="20.1.1" type="github">
   <diagram id="j4TvrrBdSwMLVQ22CCwC" name="第 1 页">
     <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -22,14 +22,13 @@
         <mxCell id="BvN8Ly658PgCMxztOEhY-16" value="ProductionController" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=60;" vertex="1" parent="1">
           <mxGeometry x="520" y="200" width="120" height="680" as="geometry" />
         </mxCell>
-        <mxCell id="BvN8Ly658PgCMxztOEhY-19" value="&amp;nbsp; &amp;nbsp;发送请求：&lt;br&gt;1)新增不携带Id&lt;br&gt;2)编辑携带Id" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;align=left;" edge="1" parent="1">
-          <mxGeometry x="-0.2458" y="30" width="80" relative="1" as="geometry">
-            <mxPoint x="339.5" y="400" as="sourcePoint" />
-            <mxPoint x="579.5" y="400" as="targetPoint" />
+        <mxCell id="BvN8Ly658PgCMxztOEhY-22" value="&lt;span style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp;发送请求：&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;1)新增不携带Id&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;2)编辑携带Id&lt;/span&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;" edge="1" parent="1" source="BvN8Ly658PgCMxztOEhY-13" target="BvN8Ly658PgCMxztOEhY-16">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="670" y="500" as="sourcePoint" />
+            <mxPoint x="730" y="500" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="520" y="400" />
+              <mxPoint x="540" y="400" />
             </Array>
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
