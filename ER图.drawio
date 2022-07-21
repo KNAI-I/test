@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-21T01:35:18.768Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="NMHkWJs8x0VqEWl7Mpt-" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-21T01:37:04.320Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="fYc2e6XZypYT5IbfQDKh" version="20.1.1" type="github">
   <diagram id="EdJQ1rim-IhcCdblrbLJ" name="第1页">
     <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -201,6 +201,34 @@
         <mxCell id="T-v4ybxe8Cstx7crRTq--82" value="N" style="resizable=0;html=1;align=right;verticalAlign=bottom;rounded=0;sketch=0;" connectable="0" vertex="1" parent="T-v4ybxe8Cstx7crRTq--81">
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="-5" y="-30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHeSQs5RbqyMI2PvdDXR-1" value="补料单子项" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;rounded=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="969" y="640" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xHeSQs5RbqyMI2PvdDXR-2" value="属于" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="979" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xHeSQs5RbqyMI2PvdDXR-3" value="" style="endArrow=none;html=1;rounded=0;sketch=0;curved=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="xHeSQs5RbqyMI2PvdDXR-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1039" y="438" as="sourcePoint" />
+            <mxPoint x="1111" y="458" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHeSQs5RbqyMI2PvdDXR-4" value="1" style="resizable=0;html=1;align=right;verticalAlign=bottom;rounded=0;sketch=0;" connectable="0" vertex="1" parent="xHeSQs5RbqyMI2PvdDXR-3">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-7" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHeSQs5RbqyMI2PvdDXR-5" value="" style="endArrow=none;html=1;rounded=0;sketch=0;curved=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xHeSQs5RbqyMI2PvdDXR-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="951" y="458" as="sourcePoint" />
+            <mxPoint x="1039" y="639" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHeSQs5RbqyMI2PvdDXR-6" value="N" style="resizable=0;html=1;align=right;verticalAlign=bottom;rounded=0;sketch=0;" connectable="0" vertex="1" parent="xHeSQs5RbqyMI2PvdDXR-5">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-5" y="-25" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
