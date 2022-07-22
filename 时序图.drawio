@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-22T08:02:57.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="LBcRhuk_hGcyob8iyXgO" version="20.1.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-22T08:06:00.893Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="0hUZVnkgsljm6DSvCukA" version="20.1.3" type="github" pages="3">
   <diagram id="j4TvrrBdSwMLVQ22CCwC" name="新增制令单">
     <mxGraphModel dx="1422" dy="786" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="none" math="0" shadow="0">
       <root>
@@ -274,21 +274,23 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="g7-0PVqzXFqC83Ut4u3k-8" value="获取可用设备列表" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;labelBackgroundColor=#F4F1DE;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.5141" y="3" relative="1" as="geometry">
             <mxPoint x="544" y="456" as="sourcePoint" />
             <mxPoint x="935" y="456" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="g7-0PVqzXFqC83Ut4u3k-9" value="返回设备列表" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;labelBackgroundColor=#F4F1DE;entryX=1;entryY=0.395;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.5102" relative="1" as="geometry">
             <mxPoint x="543" y="502.0050000000001" as="targetPoint" />
             <mxPoint x="935" y="502" as="sourcePoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g7-0PVqzXFqC83Ut4u3k-10" value="选择人员、设备" style="html=1;verticalAlign=bottom;endArrow=open;rounded=0;entryX=0.2;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1">
+        <mxCell id="g7-0PVqzXFqC83Ut4u3k-10" value="选择人员或设备后，点击保存" style="html=1;verticalAlign=bottom;endArrow=open;rounded=0;entryX=0.2;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="320" y="566" as="sourcePoint" />
-            <mxPoint x="532.5" y="566.038" as="targetPoint" />
+            <mxPoint x="320" y="555" as="sourcePoint" />
+            <mxPoint x="532.5" y="555.038" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
