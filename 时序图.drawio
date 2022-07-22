@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-22T07:55:01.313Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="SOg7IxteT75WzvjB6NAy" version="20.1.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-22T08:02:57.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="LBcRhuk_hGcyob8iyXgO" version="20.1.3" type="github" pages="3">
   <diagram id="j4TvrrBdSwMLVQ22CCwC" name="新增制令单">
     <mxGraphModel dx="1422" dy="786" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="none" math="0" shadow="0">
       <root>
@@ -239,7 +239,7 @@
         <mxCell id="M8jBk_SGEr3S2adymgQJ-10" value="ProdOrderProgress&lt;br&gt;Controller" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=60;" vertex="1" parent="1">
           <mxGeometry x="1080" y="200" width="120" height="680" as="geometry" />
         </mxCell>
-        <mxCell id="M8jBk_SGEr3S2adymgQJ-12" value="1、调整制令单" style="html=1;verticalAlign=bottom;endArrow=open;rounded=0;entryX=0.2;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1">
+        <mxCell id="M8jBk_SGEr3S2adymgQJ-12" value="调整制令单" style="html=1;verticalAlign=bottom;endArrow=open;rounded=0;entryX=0.2;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="317.5" y="319" as="sourcePoint" />
             <mxPoint x="535" y="320.038" as="targetPoint" />
@@ -283,6 +283,13 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="543" y="502.0050000000001" as="targetPoint" />
             <mxPoint x="935" y="502" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g7-0PVqzXFqC83Ut4u3k-10" value="选择人员、设备" style="html=1;verticalAlign=bottom;endArrow=open;rounded=0;entryX=0.2;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="320" y="566" as="sourcePoint" />
+            <mxPoint x="532.5" y="566.038" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
