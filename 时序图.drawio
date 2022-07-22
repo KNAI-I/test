@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-22T06:41:51.449Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="RGmkoUG40Ya-8JFv7OdE" version="20.1.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-22T06:43:01.144Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="YSrQIvwzpe7Yd6BpsyL6" version="20.1.3" type="github" pages="2">
   <diagram id="j4TvrrBdSwMLVQ22CCwC" name="新增制令单">
     <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -217,13 +217,13 @@
             <mxPoint x="1013" y="642.5799999999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FDw3NDtpHWDfzMZwRjAS-7" value="inset();" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;exitX=0.9;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="FDw3NDtpHWDfzMZwRjAS-7" value="inset();" style="html=1;verticalAlign=bottom;endArrow=open;entryX=0;entryY=0;rounded=0;exitX=0.9;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1029" y="684" as="sourcePoint" />
             <mxPoint x="1256" y="683" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MWocExDFd1T_8oxcco9b-1" value="saveProdOrderProgress" style="shape=umlFrame;whiteSpace=wrap;html=1;width=160;height=30;" vertex="1" parent="1">
+        <mxCell id="zrS3oB1glczhTPB0aKTf-1" value="saveProdOrderProgress" style="shape=umlFrame;whiteSpace=wrap;html=1;width=160;height=30;" vertex="1" parent="1">
           <mxGeometry x="240" y="160" width="1120" height="720" as="geometry" />
         </mxCell>
       </root>
