@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-24T14:46:09.894Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="U8c0IT2s3qVzLztlPYqR" version="20.1.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-07-24T14:58:50.675Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Mt3zuzzSYx6Z4pS8uW5H" version="20.1.3" type="github" pages="5">
   <diagram id="j4TvrrBdSwMLVQ22CCwC" name="新增制令单">
     <mxGraphModel dx="1422" dy="786" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="none" math="0" shadow="0">
       <root>
@@ -499,13 +499,13 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gKeiKgOk5Lg42RXODOig-6" value="ReworkOrder&lt;br&gt;Controller" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=60;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+        <mxCell id="gKeiKgOk5Lg42RXODOig-6" value="QCList&lt;br&gt;Controller" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=60;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="799" y="200" width="120" height="720" as="geometry" />
         </mxCell>
         <mxCell id="gKeiKgOk5Lg42RXODOig-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="gKeiKgOk5Lg42RXODOig-6">
           <mxGeometry x="56" y="372" width="10" height="328" as="geometry" />
         </mxCell>
-        <mxCell id="gKeiKgOk5Lg42RXODOig-8" value="ReworkOrder&lt;br&gt;Impl" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=60;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+        <mxCell id="gKeiKgOk5Lg42RXODOig-8" value="QCList&lt;br&gt;Impl" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=60;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="1037" y="200" width="123" height="720" as="geometry" />
         </mxCell>
         <mxCell id="gKeiKgOk5Lg42RXODOig-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="gKeiKgOk5Lg42RXODOig-8">
@@ -548,7 +548,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gKeiKgOk5Lg42RXODOig-15" value="ReworkOrder&lt;br&gt;Dao" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=60;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+        <mxCell id="gKeiKgOk5Lg42RXODOig-15" value="QCList&lt;br&gt;Dao" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=60;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="1280" y="200" width="120" height="720" as="geometry" />
         </mxCell>
         <mxCell id="gKeiKgOk5Lg42RXODOig-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="gKeiKgOk5Lg42RXODOig-15">
@@ -560,7 +560,7 @@
             <mxPoint x="55" y="581" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gKeiKgOk5Lg42RXODOig-18" value="MMS" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=60;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+        <mxCell id="gKeiKgOk5Lg42RXODOig-18" value="PDM" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=60;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="600" y="200" width="120" height="720" as="geometry" />
         </mxCell>
         <mxCell id="gKeiKgOk5Lg42RXODOig-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="gKeiKgOk5Lg42RXODOig-18">
@@ -612,9 +612,6 @@
             <mxPoint x="826" y="844" as="targetPoint" />
             <mxPoint x="1215" y="844" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="gKeiKgOk5Lg42RXODOig-28" value="" style="shape=umlFrame;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;width=140;height=30;" vertex="1" parent="1">
-          <mxGeometry x="120" y="160" width="1320" height="760" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
