@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T02:34:17.656Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="oNmEpRvUnAO9OXAYLRLi" version="20.1.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-07-25T02:35:22.245Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="GDnzZ60hKhP0hzZ9516C" version="20.1.3" type="github" pages="7">
   <diagram id="j4TvrrBdSwMLVQ22CCwC" name="新增制令单">
     <mxGraphModel dx="1422" dy="786" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="none" math="0" shadow="0">
       <root>
@@ -511,7 +511,7 @@
         <mxCell id="gKeiKgOk5Lg42RXODOig-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="gKeiKgOk5Lg42RXODOig-8">
           <mxGeometry x="56" y="338" width="10" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="gKeiKgOk5Lg42RXODOig-10" value="saveQCList();" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;" edge="1" parent="gKeiKgOk5Lg42RXODOig-8">
+        <mxCell id="gKeiKgOk5Lg42RXODOig-10" value="saveQCList();" style="html=1;verticalAlign=bottom;endArrow=open;entryX=0;entryY=0;rounded=0;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;endFill=0;" edge="1" parent="gKeiKgOk5Lg42RXODOig-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-172" y="370" as="sourcePoint" />
             <mxPoint x="56" y="370" as="targetPoint" />
@@ -523,7 +523,7 @@
             <mxPoint x="56" y="413" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gKeiKgOk5Lg42RXODOig-12" value="check data" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;" edge="1" parent="gKeiKgOk5Lg42RXODOig-8">
+        <mxCell id="gKeiKgOk5Lg42RXODOig-12" value="check data" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=open;rounded=0;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;endFill=0;" edge="1" parent="gKeiKgOk5Lg42RXODOig-8">
           <mxGeometry x="-0.6" y="8" relative="1" as="geometry">
             <mxPoint x="66" y="402" as="sourcePoint" />
             <Array as="points">
@@ -542,7 +542,7 @@
         <mxCell id="gKeiKgOk5Lg42RXODOig-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="gKeiKgOk5Lg42RXODOig-15">
           <mxGeometry x="55" y="489" width="10" height="111" as="geometry" />
         </mxCell>
-        <mxCell id="gKeiKgOk5Lg42RXODOig-17" value="insert();" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;" edge="1" parent="gKeiKgOk5Lg42RXODOig-15">
+        <mxCell id="gKeiKgOk5Lg42RXODOig-17" value="insert();" style="html=1;verticalAlign=bottom;endArrow=open;entryX=0;entryY=0;rounded=0;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;endFill=0;" edge="1" parent="gKeiKgOk5Lg42RXODOig-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-177" y="508" as="sourcePoint" />
             <mxPoint x="55" y="508" as="targetPoint" />
@@ -566,7 +566,7 @@
             <mxPoint x="614" y="395" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gKeiKgOk5Lg42RXODOig-25" value="saveQCList();" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;entryX=0.5;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.2;exitY=0.492;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="gKeiKgOk5Lg42RXODOig-25" value="saveQCList();" style="html=1;verticalAlign=bottom;endArrow=open;rounded=0;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;entryX=0.5;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.2;exitY=0.492;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;" edge="1" parent="1">
           <mxGeometry x="0.0093" relative="1" as="geometry">
             <mxPoint x="426" y="533.06" as="sourcePoint" />
             <mxPoint x="854" y="532.8720000000001" as="targetPoint" />
@@ -585,9 +585,6 @@
             <mxPoint x="865" y="795.944" as="targetPoint" />
             <mxPoint x="1336" y="794.988" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="PbDBfK1_Yh-gVaiV_YQy-1" value="saveQCList" style="shape=umlFrame;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;width=140;height=30;" vertex="1" parent="1">
-          <mxGeometry x="120" y="160" width="1320" height="760" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
