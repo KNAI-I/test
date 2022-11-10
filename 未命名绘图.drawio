@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T03:07:55.690Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="1XOjunM_UA6Tm8I04l4D" version="20.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-10T03:08:04.665Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="_xNWRFB8mQKUiQSKSSi1" version="20.5.3" type="github" pages="2">
   <diagram id="xgW8ZMv98bJ_MYlj6ops" name="第 1 页">
     <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -123,24 +123,11 @@
         <mxCell id="b_0pPebQPiE0q-OHQv1p-10" value="MES开工接口" style="html=1;" vertex="1" parent="b_0pPebQPiE0q-OHQv1p-8">
           <mxGeometry x="280" y="70" width="147" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b_0pPebQPiE0q-OHQv1p-11" value="6、返回“是”或者“否“" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=0.817;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="b_0pPebQPiE0q-OHQv1p-5">
-          <mxGeometry x="0.4286" relative="1" as="geometry">
-            <mxPoint x="375" y="451" as="sourcePoint" />
-            <mxPoint x="507" y="320" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="b_0pPebQPiE0q-OHQv1p-12" value="上位机" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="199.5" y="120" width="398.5" height="200" as="geometry" />
         </mxCell>
         <mxCell id="b_0pPebQPiE0q-OHQv1p-13" value="7、设备接收到&lt;br&gt;1）是：操作设备运行，&lt;br&gt;同时发送请求告诉MES开工&lt;br&gt;2）否：提示无法开工" style="html=1;" vertex="1" parent="b_0pPebQPiE0q-OHQv1p-12">
           <mxGeometry x="210.5" y="40" width="159.5" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="b_0pPebQPiE0q-OHQv1p-14" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;8、发送请求告诉MES开工&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="570" y="200" as="sourcePoint" />
-            <mxPoint x="1120" y="470" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
