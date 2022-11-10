@@ -1,69 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T02:59:23.524Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="DBRkVE9aXh-W5LlKJaIi" version="20.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-10T03:07:55.690Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="1XOjunM_UA6Tm8I04l4D" version="20.5.3" type="github" pages="2">
   <diagram id="xgW8ZMv98bJ_MYlj6ops" name="第 1 页">
     <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eUwKBlbniXrneVbVu1VE-3" value="物料" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="eUwKBlbniXrneVbVu1VE-3" value="物料" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="278" y="240" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eUwKBlbniXrneVbVu1VE-19" value="1、扫描二维码" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="eUwKBlbniXrneVbVu1VE-19" value="1、扫描二维码" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry x="0.0345" y="-1" width="80" relative="1" as="geometry">
             <mxPoint x="298" y="170" as="sourcePoint" />
             <mxPoint x="298" y="228" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eUwKBlbniXrneVbVu1VE-27" value="2、请求设备运行接口" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="eUwKBlbniXrneVbVu1VE-27" value="2、请求设备运行接口" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry x="0.5715" width="80" relative="1" as="geometry">
             <mxPoint x="300" y="280" as="sourcePoint" />
             <mxPoint x="296" y="461" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eUwKBlbniXrneVbVu1VE-37" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;3、请求MES验证接口&lt;/span&gt;&lt;br style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;传入二维码数据&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="eUwKBlbniXrneVbVu1VE-42">
+        <mxCell id="eUwKBlbniXrneVbVu1VE-37" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;3、请求MES验证接口&lt;/span&gt;&lt;br style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;传入二维码数据&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="eUwKBlbniXrneVbVu1VE-42" edge="1">
           <mxGeometry x="0.3877" y="1" width="80" relative="1" as="geometry">
             <mxPoint x="399" y="482" as="sourcePoint" />
             <mxPoint x="646" y="482" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eUwKBlbniXrneVbVu1VE-33" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;设备运行接口&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="html=1;" vertex="1" parent="1">
+        <mxCell id="eUwKBlbniXrneVbVu1VE-33" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;设备运行接口&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="html=1;" parent="1" vertex="1">
           <mxGeometry x="272" y="461" width="288" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eUwKBlbniXrneVbVu1VE-38" value="4、返回“是”或者“否“" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
+        <mxCell id="eUwKBlbniXrneVbVu1VE-38" value="4、返回“是”或者“否“" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" parent="1" edge="1">
           <mxGeometry x="0.001" y="29" relative="1" as="geometry">
             <mxPoint x="800" y="520" as="sourcePoint" />
             <mxPoint x="560" y="521" as="targetPoint" />
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eUwKBlbniXrneVbVu1VE-40" value="MRO" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eUwKBlbniXrneVbVu1VE-40" value="MRO" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="197" y="401" width="403" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="eUwKBlbniXrneVbVu1VE-44" value="MES" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+        <mxCell id="eUwKBlbniXrneVbVu1VE-44" value="MES" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;direction=west;" parent="1" vertex="1">
           <mxGeometry x="760" y="401" width="500" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="eUwKBlbniXrneVbVu1VE-42" value="MES验证接口" style="html=1;" vertex="1" parent="eUwKBlbniXrneVbVu1VE-44">
+        <mxCell id="eUwKBlbniXrneVbVu1VE-42" value="MES验证接口" style="html=1;" parent="eUwKBlbniXrneVbVu1VE-44" vertex="1">
           <mxGeometry x="44" y="70" width="147" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eUwKBlbniXrneVbVu1VE-43" value="MES开工接口" style="html=1;" vertex="1" parent="eUwKBlbniXrneVbVu1VE-44">
+        <mxCell id="eUwKBlbniXrneVbVu1VE-43" value="MES开工接口" style="html=1;" parent="eUwKBlbniXrneVbVu1VE-44" vertex="1">
           <mxGeometry x="280" y="70" width="147" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eUwKBlbniXrneVbVu1VE-46" value="6、返回“是”或者“否“" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=0.817;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eUwKBlbniXrneVbVu1VE-33">
+        <mxCell id="eUwKBlbniXrneVbVu1VE-46" value="6、返回“是”或者“否“" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=0.817;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="eUwKBlbniXrneVbVu1VE-33" edge="1">
           <mxGeometry x="0.4286" relative="1" as="geometry">
             <mxPoint x="375" y="451" as="sourcePoint" />
             <mxPoint x="507" y="320" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eUwKBlbniXrneVbVu1VE-48" value="上位机" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eUwKBlbniXrneVbVu1VE-48" value="上位机" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="199.5" y="120" width="398.5" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="eUwKBlbniXrneVbVu1VE-51" value="7、设备接收到&lt;br&gt;1）是：操作设备运行，&lt;br&gt;同时发送请求告诉MES开工&lt;br&gt;2）否：提示无法开工" style="html=1;" vertex="1" parent="eUwKBlbniXrneVbVu1VE-48">
+        <mxCell id="eUwKBlbniXrneVbVu1VE-51" value="7、设备接收到&lt;br&gt;1）是：操作设备运行，&lt;br&gt;同时发送请求告诉MES开工&lt;br&gt;2）否：提示无法开工" style="html=1;" parent="eUwKBlbniXrneVbVu1VE-48" vertex="1">
           <mxGeometry x="210.5" y="40" width="159.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="eUwKBlbniXrneVbVu1VE-50" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;8、发送请求告诉MES开工&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
+        <mxCell id="eUwKBlbniXrneVbVu1VE-50" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;8、发送请求告诉MES开工&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="570" y="200" as="sourcePoint" />
             <mxPoint x="1120" y="470" as="targetPoint" />
@@ -77,6 +77,71 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="b_0pPebQPiE0q-OHQv1p-1" value="物料" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="278" y="240" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b_0pPebQPiE0q-OHQv1p-2" value="1、扫描二维码" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry x="0.0345" y="-1" width="80" relative="1" as="geometry">
+            <mxPoint x="298" y="170" as="sourcePoint" />
+            <mxPoint x="298" y="228" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b_0pPebQPiE0q-OHQv1p-3" value="2、请求设备运行接口" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry x="0.5715" width="80" relative="1" as="geometry">
+            <mxPoint x="300" y="280" as="sourcePoint" />
+            <mxPoint x="296" y="461" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b_0pPebQPiE0q-OHQv1p-4" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;3、请求MES验证接口&lt;/span&gt;&lt;br style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;传入二维码数据&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="b_0pPebQPiE0q-OHQv1p-9">
+          <mxGeometry x="0.3877" y="1" width="80" relative="1" as="geometry">
+            <mxPoint x="399" y="482" as="sourcePoint" />
+            <mxPoint x="646" y="482" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b_0pPebQPiE0q-OHQv1p-5" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;设备运行接口&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="272" y="461" width="288" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b_0pPebQPiE0q-OHQv1p-6" value="4、返回“是”或者“否“" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.001" y="29" relative="1" as="geometry">
+            <mxPoint x="800" y="520" as="sourcePoint" />
+            <mxPoint x="560" y="521" as="targetPoint" />
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b_0pPebQPiE0q-OHQv1p-7" value="MRO" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="197" y="401" width="403" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="b_0pPebQPiE0q-OHQv1p-8" value="MES" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="760" y="401" width="500" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="b_0pPebQPiE0q-OHQv1p-9" value="MES验证接口" style="html=1;" vertex="1" parent="b_0pPebQPiE0q-OHQv1p-8">
+          <mxGeometry x="44" y="70" width="147" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b_0pPebQPiE0q-OHQv1p-10" value="MES开工接口" style="html=1;" vertex="1" parent="b_0pPebQPiE0q-OHQv1p-8">
+          <mxGeometry x="280" y="70" width="147" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b_0pPebQPiE0q-OHQv1p-11" value="6、返回“是”或者“否“" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=0.817;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="b_0pPebQPiE0q-OHQv1p-5">
+          <mxGeometry x="0.4286" relative="1" as="geometry">
+            <mxPoint x="375" y="451" as="sourcePoint" />
+            <mxPoint x="507" y="320" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b_0pPebQPiE0q-OHQv1p-12" value="上位机" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="199.5" y="120" width="398.5" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="b_0pPebQPiE0q-OHQv1p-13" value="7、设备接收到&lt;br&gt;1）是：操作设备运行，&lt;br&gt;同时发送请求告诉MES开工&lt;br&gt;2）否：提示无法开工" style="html=1;" vertex="1" parent="b_0pPebQPiE0q-OHQv1p-12">
+          <mxGeometry x="210.5" y="40" width="159.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="b_0pPebQPiE0q-OHQv1p-14" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;8、发送请求告诉MES开工&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="570" y="200" as="sourcePoint" />
+            <mxPoint x="1120" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
