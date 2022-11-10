@@ -1,52 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T01:44:17.000Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="an8U5oTT4g-XHkf_9yFf" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-10T02:59:23.524Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="DBRkVE9aXh-W5LlKJaIi" version="20.5.3" type="github" pages="2">
   <diagram id="xgW8ZMv98bJ_MYlj6ops" name="第 1 页">
     <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eUwKBlbniXrneVbVu1VE-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="240" y="360" width="160" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="eUwKBlbniXrneVbVu1VE-3" value="物料" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="300" y="440" width="40" height="40" as="geometry" />
+          <mxGeometry x="278" y="240" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eUwKBlbniXrneVbVu1VE-4" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="-0.4545" y="30" width="160" relative="1" as="geometry">
-            <mxPoint x="91" y="480" as="sourcePoint" />
-            <mxPoint x="531" y="480" as="targetPoint" />
+        <mxCell id="eUwKBlbniXrneVbVu1VE-19" value="1、扫描二维码" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry x="0.0345" y="-1" width="80" relative="1" as="geometry">
+            <mxPoint x="298" y="170" as="sourcePoint" />
+            <mxPoint x="298" y="228" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eUwKBlbniXrneVbVu1VE-5" value="上位机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="290" y="360" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="eUwKBlbniXrneVbVu1VE-6" value="物料" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="141" y="440" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="eUwKBlbniXrneVbVu1VE-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="386" as="sourcePoint" />
-            <mxPoint x="320" y="436" as="targetPoint" />
+        <mxCell id="eUwKBlbniXrneVbVu1VE-27" value="2、请求设备运行接口" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry x="0.5715" width="80" relative="1" as="geometry">
+            <mxPoint x="300" y="280" as="sourcePoint" />
+            <mxPoint x="296" y="461" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eUwKBlbniXrneVbVu1VE-11" value="1、扫描二维码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="267" y="393" width="100" height="30" as="geometry" />
+        <mxCell id="eUwKBlbniXrneVbVu1VE-37" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;3、请求MES验证接口&lt;/span&gt;&lt;br style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;传入二维码数据&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="eUwKBlbniXrneVbVu1VE-42">
+          <mxGeometry x="0.3877" y="1" width="80" relative="1" as="geometry">
+            <mxPoint x="399" y="482" as="sourcePoint" />
+            <mxPoint x="646" y="482" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="eUwKBlbniXrneVbVu1VE-12" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="720" y="680" width="160" height="160" as="geometry" />
+        <mxCell id="eUwKBlbniXrneVbVu1VE-33" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;设备运行接口&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="272" y="461" width="288" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eUwKBlbniXrneVbVu1VE-13" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="720" y="160" width="160" height="160" as="geometry" />
+        <mxCell id="eUwKBlbniXrneVbVu1VE-38" value="4、返回“是”或者“否“" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.001" y="29" relative="1" as="geometry">
+            <mxPoint x="800" y="520" as="sourcePoint" />
+            <mxPoint x="560" y="521" as="targetPoint" />
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="eUwKBlbniXrneVbVu1VE-14" value="MES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="770" y="160" width="50" height="30" as="geometry" />
+        <mxCell id="eUwKBlbniXrneVbVu1VE-40" value="MRO" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="197" y="401" width="403" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="eUwKBlbniXrneVbVu1VE-15" value="MRO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="775" y="680" width="50" height="30" as="geometry" />
+        <mxCell id="eUwKBlbniXrneVbVu1VE-44" value="MES" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="760" y="401" width="500" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="eUwKBlbniXrneVbVu1VE-16" value="物料" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="447" y="440" width="40" height="40" as="geometry" />
+        <mxCell id="eUwKBlbniXrneVbVu1VE-42" value="MES验证接口" style="html=1;" vertex="1" parent="eUwKBlbniXrneVbVu1VE-44">
+          <mxGeometry x="44" y="70" width="147" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="eUwKBlbniXrneVbVu1VE-43" value="MES开工接口" style="html=1;" vertex="1" parent="eUwKBlbniXrneVbVu1VE-44">
+          <mxGeometry x="280" y="70" width="147" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eUwKBlbniXrneVbVu1VE-46" value="6、返回“是”或者“否“" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=0.817;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eUwKBlbniXrneVbVu1VE-33">
+          <mxGeometry x="0.4286" relative="1" as="geometry">
+            <mxPoint x="375" y="451" as="sourcePoint" />
+            <mxPoint x="507" y="320" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eUwKBlbniXrneVbVu1VE-48" value="上位机" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="199.5" y="120" width="398.5" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="eUwKBlbniXrneVbVu1VE-51" value="7、设备接收到&lt;br&gt;1）是：操作设备运行，&lt;br&gt;同时发送请求告诉MES开工&lt;br&gt;2）否：提示无法开工" style="html=1;" vertex="1" parent="eUwKBlbniXrneVbVu1VE-48">
+          <mxGeometry x="210.5" y="40" width="159.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="eUwKBlbniXrneVbVu1VE-50" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;8、发送请求告诉MES开工&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="570" y="200" as="sourcePoint" />
+            <mxPoint x="1120" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_ajxn0NAwaObrz8eCLpn" name="第 2 页">
+    <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
