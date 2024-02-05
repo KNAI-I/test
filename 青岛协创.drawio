@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T08:26:41.713Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="3DVxksHMAx39SrlIeRyb" version="23.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-05T08:44:03.859Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="DrpsnQn1kyeDQ6wg0_fF" version="23.1.1" type="github" pages="3">
   <diagram name="报工" id="zWo01hbF4b2UpFMgGe-W">
     <mxGraphModel dx="1687" dy="908" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -231,38 +231,41 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9EPRG-W_Y2j9mnNYXfmY-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="872" y="96" width="580" height="342" as="geometry" />
+        </mxCell>
         <mxCell id="dR9sgYi7v1lMIJkdzzRx-96" value="获取制令单&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;相同倒冲物料" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1037" y="167" width="110" height="40" as="geometry" />
+          <mxGeometry x="935" y="115" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dR9sgYi7v1lMIJkdzzRx-97" value="获取制令单&lt;br&gt;相同倒冲物料" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1036" y="340" width="110" height="40" as="geometry" />
+          <mxGeometry x="934" y="288" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dR9sgYi7v1lMIJkdzzRx-98" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;exitX=0.482;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="dR9sgYi7v1lMIJkdzzRx-134" target="dR9sgYi7v1lMIJkdzzRx-97" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1096" y="307" as="sourcePoint" />
-            <mxPoint x="1086" y="407" as="targetPoint" />
+            <mxPoint x="994" y="255" as="sourcePoint" />
+            <mxPoint x="984" y="355" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dR9sgYi7v1lMIJkdzzRx-100" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dR9sgYi7v1lMIJkdzzRx-97" target="dR9sgYi7v1lMIJkdzzRx-138" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1036" y="527" as="sourcePoint" />
-            <mxPoint x="1090.6507936507937" y="420" as="targetPoint" />
+            <mxPoint x="934" y="475" as="sourcePoint" />
+            <mxPoint x="988.6507936507937" y="368" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dR9sgYi7v1lMIJkdzzRx-134" value="要合并的&lt;br&gt;制令单id" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="1036.5" y="258" width="113" height="38" as="geometry" />
+          <mxGeometry x="934.5" y="206" width="113" height="38" as="geometry" />
         </mxCell>
         <mxCell id="dR9sgYi7v1lMIJkdzzRx-135" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dR9sgYi7v1lMIJkdzzRx-96" target="dR9sgYi7v1lMIJkdzzRx-134" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1101" y="395" as="sourcePoint" />
-            <mxPoint x="1093" y="264" as="targetPoint" />
+            <mxPoint x="999" y="343" as="sourcePoint" />
+            <mxPoint x="991" y="212" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dR9sgYi7v1lMIJkdzzRx-137" value="合并倒冲" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="426" y="152" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dR9sgYi7v1lMIJkdzzRx-138" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1036" y="435" width="110" height="40" as="geometry" />
+          <mxGeometry x="934" y="383" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dR9sgYi7v1lMIJkdzzRx-139" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dR9sgYi7v1lMIJkdzzRx-137" target="dR9sgYi7v1lMIJkdzzRx-140" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -274,12 +277,12 @@
           <mxGeometry x="424" y="248" width="113" height="38" as="geometry" />
         </mxCell>
         <mxCell id="dR9sgYi7v1lMIJkdzzRx-143" value="&lt;h1&gt;&lt;span style=&quot;font-size: 13px; background-color: initial; font-weight: normal;&quot;&gt;假如有三个制令单要合并倒冲，需根据这三个制令单，查询它们下面是否存在相同的倒冲物料，有则返回；&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1288" y="311" width="248" height="98" as="geometry" />
+          <mxGeometry x="1186" y="259" width="248" height="98" as="geometry" />
         </mxCell>
         <mxCell id="dR9sgYi7v1lMIJkdzzRx-144" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="dR9sgYi7v1lMIJkdzzRx-97" target="dR9sgYi7v1lMIJkdzzRx-143" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="875" y="568" as="sourcePoint" />
-            <mxPoint x="925" y="518" as="targetPoint" />
+            <mxPoint x="773" y="516" as="sourcePoint" />
+            <mxPoint x="823" y="466" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dR9sgYi7v1lMIJkdzzRx-145" value="验证数据" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -310,10 +313,13 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="491" y="296" as="sourcePoint" />
             <mxPoint x="491" y="349" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="400" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pBorBjxeUidVtTytHxpL-14" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="260" y="664" width="756.75" height="187" as="geometry" />
+          <mxGeometry x="697" y="509" width="756.75" height="186.75" as="geometry" />
         </mxCell>
         <mxCell id="pBorBjxeUidVtTytHxpL-15" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" parent="pBorBjxeUidVtTytHxpL-14" vertex="1">
           <mxGeometry width="756.75" height="47" as="geometry" />
@@ -447,8 +453,37 @@
             <mxRectangle width="132" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-2U24PCC3CgZPC3P3q3R-1" value="根据各制令单的生产数和BOM用量，算出制令单物料实际用量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="399.5" y="530" width="160.5" height="67" as="geometry" />
+        <mxCell id="-2U24PCC3CgZPC3P3q3R-1" value="创建倒冲记录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="399.5" y="548" width="160.5" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="9EPRG-W_Y2j9mnNYXfmY-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dR9sgYi7v1lMIJkdzzRx-150" target="-2U24PCC3CgZPC3P3q3R-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="491" y="393" as="sourcePoint" />
+            <mxPoint x="490" y="438" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9EPRG-W_Y2j9mnNYXfmY-2" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="669" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9EPRG-W_Y2j9mnNYXfmY-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-2U24PCC3CgZPC3P3q3R-1" target="9EPRG-W_Y2j9mnNYXfmY-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="505" as="sourcePoint" />
+            <mxPoint x="490" y="558" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9EPRG-W_Y2j9mnNYXfmY-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dR9sgYi7v1lMIJkdzzRx-140" target="9EPRG-W_Y2j9mnNYXfmY-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="849" y="522" as="sourcePoint" />
+            <mxPoint x="899" y="472" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9EPRG-W_Y2j9mnNYXfmY-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dR9sgYi7v1lMIJkdzzRx-150" target="pBorBjxeUidVtTytHxpL-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="537" y="277" as="sourcePoint" />
+            <mxPoint x="975" y="277" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
