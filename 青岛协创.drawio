@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-04T06:36:27.682Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="g93hg4SO7n88DKeFvSux" version="23.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-05T08:13:44.499Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="nPLDr-O_WsCIMLVQYAQN" version="23.1.1" type="github" pages="3">
   <diagram name="报工" id="zWo01hbF4b2UpFMgGe-W">
-    <mxGraphModel dx="1434" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="908" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -226,11 +226,227 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="OrasUBCycG_aWmoctQpk" name="第 3 页">
-    <mxGraphModel dx="1434" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+  <diagram id="OrasUBCycG_aWmoctQpk" name="制令单合并倒冲">
+    <mxGraphModel dx="1434" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dR9sgYi7v1lMIJkdzzRx-96" value="获取制令单&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;相同倒冲物料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1037" y="167" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dR9sgYi7v1lMIJkdzzRx-97" value="获取制令单&lt;br&gt;相同倒冲物料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1036" y="340" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dR9sgYi7v1lMIJkdzzRx-98" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;exitX=0.482;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dR9sgYi7v1lMIJkdzzRx-134" target="dR9sgYi7v1lMIJkdzzRx-97">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1096" y="307" as="sourcePoint" />
+            <mxPoint x="1086" y="407" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dR9sgYi7v1lMIJkdzzRx-100" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dR9sgYi7v1lMIJkdzzRx-97" target="dR9sgYi7v1lMIJkdzzRx-138">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1036" y="527" as="sourcePoint" />
+            <mxPoint x="1090.6507936507937" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dR9sgYi7v1lMIJkdzzRx-134" value="要合并的&lt;br&gt;制令单id" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1036.5" y="258" width="113" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="dR9sgYi7v1lMIJkdzzRx-135" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dR9sgYi7v1lMIJkdzzRx-96" target="dR9sgYi7v1lMIJkdzzRx-134">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1101" y="395" as="sourcePoint" />
+            <mxPoint x="1093" y="264" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dR9sgYi7v1lMIJkdzzRx-137" value="合并倒冲" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="426" y="152" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dR9sgYi7v1lMIJkdzzRx-138" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1036" y="435" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dR9sgYi7v1lMIJkdzzRx-139" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dR9sgYi7v1lMIJkdzzRx-137" target="dR9sgYi7v1lMIJkdzzRx-140">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480.5" y="205" as="sourcePoint" />
+            <mxPoint x="482" y="239" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dR9sgYi7v1lMIJkdzzRx-140" value="合并倒冲数据" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="424" y="248" width="113" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="dR9sgYi7v1lMIJkdzzRx-143" value="&lt;h1&gt;&lt;span style=&quot;font-size: 13px; background-color: initial; font-weight: normal;&quot;&gt;假如有三个制令单要合并倒冲，需根据这三个制令单，查询它们下面是否存在相同的倒冲物料，有则返回；&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1288" y="311" width="248" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="dR9sgYi7v1lMIJkdzzRx-144" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dR9sgYi7v1lMIJkdzzRx-97" target="dR9sgYi7v1lMIJkdzzRx-143">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="875" y="568" as="sourcePoint" />
+            <mxPoint x="925" y="518" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dR9sgYi7v1lMIJkdzzRx-145" value="验证数据" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="432.75" y="339" width="96.5" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="dR9sgYi7v1lMIJkdzzRx-146" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dR9sgYi7v1lMIJkdzzRx-140" target="dR9sgYi7v1lMIJkdzzRx-145">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="785" y="538" as="sourcePoint" />
+            <mxPoint x="835" y="488" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dR9sgYi7v1lMIJkdzzRx-148" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dR9sgYi7v1lMIJkdzzRx-145">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="191" as="sourcePoint" />
+            <mxPoint x="328" y="191" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="328" y="361" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dR9sgYi7v1lMIJkdzzRx-149" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="316" y="331" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dR9sgYi7v1lMIJkdzzRx-150" value="根据各制令单的生产数和BOM用量，算出制令单物料实际用量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="399.5" y="428" width="160.5" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="dR9sgYi7v1lMIJkdzzRx-151" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dR9sgYi7v1lMIJkdzzRx-145" target="dR9sgYi7v1lMIJkdzzRx-150">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="491" y="296" as="sourcePoint" />
+            <mxPoint x="491" y="349" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pBorBjxeUidVtTytHxpL-14" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="664" width="618" height="187" as="geometry" />
+        </mxCell>
+        <mxCell id="pBorBjxeUidVtTytHxpL-15" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="pBorBjxeUidVtTytHxpL-14">
+          <mxGeometry width="618" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="pBorBjxeUidVtTytHxpL-16" value="单据" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="pBorBjxeUidVtTytHxpL-15">
+          <mxGeometry width="84" height="47" as="geometry">
+            <mxRectangle width="84" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pBorBjxeUidVtTytHxpL-17" value="生产数" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="pBorBjxeUidVtTytHxpL-15">
+          <mxGeometry x="84" width="84" height="47" as="geometry">
+            <mxRectangle width="84" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pBorBjxeUidVtTytHxpL-18" value="Bom比例" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="pBorBjxeUidVtTytHxpL-15">
+          <mxGeometry x="168" width="79" height="47" as="geometry">
+            <mxRectangle width="79" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pBorBjxeUidVtTytHxpL-27" value="应领" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="pBorBjxeUidVtTytHxpL-15">
+          <mxGeometry x="247" width="85" height="47" as="geometry">
+            <mxRectangle width="85" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pBorBjxeUidVtTytHxpL-33" value="实领" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="pBorBjxeUidVtTytHxpL-15">
+          <mxGeometry x="332" width="197" height="47" as="geometry">
+            <mxRectangle width="197" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pBorBjxeUidVtTytHxpL-47" value="占比" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="pBorBjxeUidVtTytHxpL-15">
+          <mxGeometry x="529" width="89" height="47" as="geometry">
+            <mxRectangle width="89" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pBorBjxeUidVtTytHxpL-19" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="pBorBjxeUidVtTytHxpL-14">
+          <mxGeometry y="47" width="618" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="pBorBjxeUidVtTytHxpL-20" value="A1" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="pBorBjxeUidVtTytHxpL-19">
+          <mxGeometry width="84" height="46" as="geometry">
+            <mxRectangle width="84" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pBorBjxeUidVtTytHxpL-21" value="30" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="pBorBjxeUidVtTytHxpL-19">
+          <mxGeometry x="84" width="84" height="46" as="geometry">
+            <mxRectangle width="84" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pBorBjxeUidVtTytHxpL-22" value="2" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="pBorBjxeUidVtTytHxpL-19">
+          <mxGeometry x="168" width="79" height="46" as="geometry">
+            <mxRectangle width="79" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pBorBjxeUidVtTytHxpL-28" value="60" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="pBorBjxeUidVtTytHxpL-19">
+          <mxGeometry x="247" width="85" height="46" as="geometry">
+            <mxRectangle width="85" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pBorBjxeUidVtTytHxpL-34" value="(60 / 210) * 200 = 58" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="pBorBjxeUidVtTytHxpL-19">
+          <mxGeometry x="332" width="197" height="46" as="geometry">
+            <mxRectangle width="197" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pBorBjxeUidVtTytHxpL-48" value="57%" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="pBorBjxeUidVtTytHxpL-19">
+          <mxGeometry x="529" width="89" height="46" as="geometry">
+            <mxRectangle width="89" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pBorBjxeUidVtTytHxpL-23" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="pBorBjxeUidVtTytHxpL-14">
+          <mxGeometry y="93" width="618" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="pBorBjxeUidVtTytHxpL-24" value="A2" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="pBorBjxeUidVtTytHxpL-23">
+          <mxGeometry width="84" height="47" as="geometry">
+            <mxRectangle width="84" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pBorBjxeUidVtTytHxpL-25" value="30" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="pBorBjxeUidVtTytHxpL-23">
+          <mxGeometry x="84" width="84" height="47" as="geometry">
+            <mxRectangle width="84" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pBorBjxeUidVtTytHxpL-26" value="1" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="pBorBjxeUidVtTytHxpL-23">
+          <mxGeometry x="168" width="79" height="47" as="geometry">
+            <mxRectangle width="79" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pBorBjxeUidVtTytHxpL-29" value="30" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="pBorBjxeUidVtTytHxpL-23">
+          <mxGeometry x="247" width="85" height="47" as="geometry">
+            <mxRectangle width="85" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pBorBjxeUidVtTytHxpL-35" value="(30 / 210) * 200 = 28&amp;nbsp;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="pBorBjxeUidVtTytHxpL-23">
+          <mxGeometry x="332" width="197" height="47" as="geometry">
+            <mxRectangle width="197" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pBorBjxeUidVtTytHxpL-49" value="29%" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="pBorBjxeUidVtTytHxpL-23">
+          <mxGeometry x="529" width="89" height="47" as="geometry">
+            <mxRectangle width="89" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pBorBjxeUidVtTytHxpL-36" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="pBorBjxeUidVtTytHxpL-14">
+          <mxGeometry y="140" width="618" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="pBorBjxeUidVtTytHxpL-37" value="A3" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="pBorBjxeUidVtTytHxpL-36">
+          <mxGeometry width="84" height="47" as="geometry">
+            <mxRectangle width="84" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pBorBjxeUidVtTytHxpL-38" value="40" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="pBorBjxeUidVtTytHxpL-36">
+          <mxGeometry x="84" width="84" height="47" as="geometry">
+            <mxRectangle width="84" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pBorBjxeUidVtTytHxpL-39" value="3" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="pBorBjxeUidVtTytHxpL-36">
+          <mxGeometry x="168" width="79" height="47" as="geometry">
+            <mxRectangle width="79" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pBorBjxeUidVtTytHxpL-40" value="120" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="pBorBjxeUidVtTytHxpL-36">
+          <mxGeometry x="247" width="85" height="47" as="geometry">
+            <mxRectangle width="85" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pBorBjxeUidVtTytHxpL-41" value="(120 / 210) * 200 = 114" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="pBorBjxeUidVtTytHxpL-36">
+          <mxGeometry x="332" width="197" height="47" as="geometry">
+            <mxRectangle width="197" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pBorBjxeUidVtTytHxpL-50" value="14%" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="pBorBjxeUidVtTytHxpL-36">
+          <mxGeometry x="529" width="89" height="47" as="geometry">
+            <mxRectangle width="89" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
