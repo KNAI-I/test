@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-06T07:29:58.951Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="ptEGDvduPB2vBsA9uyPE" version="23.1.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-02-06T07:30:29.625Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="llsTKNO2Dw33g1neXqr-" version="23.1.1" type="github" pages="6">
   <diagram name="报工" id="zWo01hbF4b2UpFMgGe-W">
     <mxGraphModel dx="1434" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -670,7 +670,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="t_qGBPjL01VYhdrxB2hu" name="线边仓领料">
+  <diagram id="t_qGBPjL01VYhdrxB2hu" name="领料">
     <mxGraphModel dx="1434" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -841,7 +841,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="xajETKMjcpLRXCrlj2cP" name="线边仓退料">
+  <diagram id="xajETKMjcpLRXCrlj2cP" name="退料">
     <mxGraphModel dx="1434" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -994,6 +994,14 @@
             <mxPoint x="753" y="1306" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="BRadakZgWaV54YKc-TX4" name="入库">
+    <mxGraphModel dx="1434" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
