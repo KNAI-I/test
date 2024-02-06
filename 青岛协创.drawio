@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-06T07:42:36.518Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="sol5Qt7L2vEvawTZwsUX" version="23.1.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-02-06T07:43:07.470Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="B3zRx4_IcyUfvoMjYzCX" version="23.1.1" type="github" pages="5">
   <diagram name="报工" id="zWo01hbF4b2UpFMgGe-W">
     <mxGraphModel dx="1434" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -176,10 +176,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rA4A2v2HGRDMiev4CEQb-10" value="创建报工记录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="725.5" y="1835" width="118.5" height="41" as="geometry" />
+          <mxGeometry x="725.5" y="1801" width="118.5" height="41" as="geometry" />
         </mxCell>
         <mxCell id="rA4A2v2HGRDMiev4CEQb-12" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="729.75" y="1946" width="110" height="40" as="geometry" />
+          <mxGeometry x="729.75" y="1904" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rA4A2v2HGRDMiev4CEQb-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rA4A2v2HGRDMiev4CEQb-10" target="rA4A2v2HGRDMiev4CEQb-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -201,7 +201,7 @@
           <mxGeometry x="983" y="1479" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rA4A2v2HGRDMiev4CEQb-24" value="获取制令单物料&lt;br&gt;用报工产量根据BOM用量，&lt;br style=&quot;border-color: var(--border-color); color: rgb(57, 60, 86); font-size: 11px; text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(57, 60, 86); font-size: 11px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;计算倒冲数量，并实例化倒冲数据对象&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="956" y="1593" width="179" height="81" as="geometry" />
+          <mxGeometry x="956" y="1574" width="179" height="81" as="geometry" />
         </mxCell>
         <mxCell id="rA4A2v2HGRDMiev4CEQb-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rA4A2v2HGRDMiev4CEQb-24" target="rA4A2v2HGRDMiev4CEQb-26" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -210,14 +210,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rA4A2v2HGRDMiev4CEQb-26" value="创建倒冲记录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="986.25" y="1723" width="118.5" height="41" as="geometry" />
+          <mxGeometry x="986.25" y="1702" width="118.5" height="41" as="geometry" />
         </mxCell>
         <mxCell id="rA4A2v2HGRDMiev4CEQb-30" value="" style="endArrow=classic;html=1;rounded=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=0;" parent="1" source="rA4A2v2HGRDMiev4CEQb-26" target="rA4A2v2HGRDMiev4CEQb-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1161" y="1716" as="sourcePoint" />
             <mxPoint x="1211" y="1666" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1046" y="1856" />
+              <mxPoint x="1046" y="1821" />
             </Array>
           </mxGeometry>
         </mxCell>
