@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-06T07:36:54.968Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="kARTFxQdsFkq1dABxWn2" version="23.1.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-02-06T07:37:04.097Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="F73ZkZXC9jcrE5DwiUDA" version="23.1.1" type="github" pages="5">
   <diagram name="报工" id="zWo01hbF4b2UpFMgGe-W">
     <mxGraphModel dx="1434" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -823,7 +823,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PSXU5Cr4guuWjgb0b377-1" value="线边仓领料" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="PSXU5Cr4guuWjgb0b377-1" value="领料" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="618" y="938" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PSXU5Cr4guuWjgb0b377-2" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PSXU5Cr4guuWjgb0b377-1" target="PSXU5Cr4guuWjgb0b377-3" edge="1">
