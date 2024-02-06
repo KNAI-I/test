@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-06T07:23:02.391Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="oD906aZMHcW76DmxTC6a" version="23.1.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-02-06T07:29:58.951Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="ptEGDvduPB2vBsA9uyPE" version="23.1.1" type="github" pages="5">
   <diagram name="报工" id="zWo01hbF4b2UpFMgGe-W">
     <mxGraphModel dx="1434" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -916,10 +916,10 @@
         <mxCell id="zrQy-NH-Cq9OwcYV-mRF-14" value="线边仓" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="824" y="1263" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zrQy-NH-Cq9OwcYV-mRF-15" value="调用领料确认出库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zrQy-NH-Cq9OwcYV-mRF-15" value="调用退料入库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="456" y="1341" width="112" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="zrQy-NH-Cq9OwcYV-mRF-16" value="WMS&lt;br&gt;领料确认出库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zrQy-NH-Cq9OwcYV-mRF-16" value="WMS&lt;br&gt;退料入库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1342" width="116" height="43" as="geometry" />
         </mxCell>
         <mxCell id="zrQy-NH-Cq9OwcYV-mRF-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zrQy-NH-Cq9OwcYV-mRF-15" target="zrQy-NH-Cq9OwcYV-mRF-16">
@@ -928,38 +928,23 @@
             <mxPoint x="753" y="1345" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zrQy-NH-Cq9OwcYV-mRF-18" value="查询物料出库记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="456" y="1436" width="112" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="zrQy-NH-Cq9OwcYV-mRF-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zrQy-NH-Cq9OwcYV-mRF-15" target="zrQy-NH-Cq9OwcYV-mRF-18">
+        <mxCell id="zrQy-NH-Cq9OwcYV-mRF-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zrQy-NH-Cq9OwcYV-mRF-15" target="zrQy-NH-Cq9OwcYV-mRF-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="703" y="1395" as="sourcePoint" />
-            <mxPoint x="753" y="1345" as="targetPoint" />
+            <mxPoint x="512" y="1436" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zrQy-NH-Cq9OwcYV-mRF-20" value="WMS&lt;br&gt;查询物料出库记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1438" width="116" height="43" as="geometry" />
+        <mxCell id="zrQy-NH-Cq9OwcYV-mRF-20" value="WMS&lt;br&gt;发送MQ通知确认退料入库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1533" width="116" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="zrQy-NH-Cq9OwcYV-mRF-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="zrQy-NH-Cq9OwcYV-mRF-18" target="zrQy-NH-Cq9OwcYV-mRF-20">
+        <mxCell id="zrQy-NH-Cq9OwcYV-mRF-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zrQy-NH-Cq9OwcYV-mRF-20" target="zrQy-NH-Cq9OwcYV-mRF-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="466" y="1375" as="sourcePoint" />
+            <mxPoint x="456" y="1447.75" as="sourcePoint" />
             <mxPoint x="366" y="1374" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zrQy-NH-Cq9OwcYV-mRF-22" value="出库记录" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="zrQy-NH-Cq9OwcYV-mRF-20" target="zrQy-NH-Cq9OwcYV-mRF-18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="768" y="1331" as="sourcePoint" />
-            <mxPoint x="688" y="1331" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zrQy-NH-Cq9OwcYV-mRF-23" value="同步出库信息&lt;br&gt;更新领料单信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zrQy-NH-Cq9OwcYV-mRF-23" value="更新退料单信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="455" y="1531" width="112" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="zrQy-NH-Cq9OwcYV-mRF-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zrQy-NH-Cq9OwcYV-mRF-18" target="zrQy-NH-Cq9OwcYV-mRF-23">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="703" y="1456" as="sourcePoint" />
-            <mxPoint x="753" y="1406" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="zrQy-NH-Cq9OwcYV-mRF-25" value="" style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="zrQy-NH-Cq9OwcYV-mRF-23" target="zrQy-NH-Cq9OwcYV-mRF-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
