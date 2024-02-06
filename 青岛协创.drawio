@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-06T07:30:29.625Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="llsTKNO2Dw33g1neXqr-" version="23.1.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-02-06T07:30:52.085Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="FKlJVp1HvCGhJnazcPFV" version="23.1.1" type="github" pages="5">
   <diagram name="报工" id="zWo01hbF4b2UpFMgGe-W">
     <mxGraphModel dx="1434" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -237,7 +237,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="rwTTvEv679dInaB4qkXv" name="线边仓入库">
+  <diagram id="rwTTvEv679dInaB4qkXv" name="入库">
     <mxGraphModel dx="1434" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -994,14 +994,6 @@
             <mxPoint x="753" y="1306" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="BRadakZgWaV54YKc-TX4" name="入库">
-    <mxGraphModel dx="1434" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
