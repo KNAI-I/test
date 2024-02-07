@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-06T07:48:27.310Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="7wv1zXTdPvpGzh5GDRRW" version="23.1.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-02-07T01:12:42.848Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="cN-f2rsGF17lbYAydAop" version="23.1.1" type="github" pages="5">
   <diagram name="报工" id="zWo01hbF4b2UpFMgGe-W">
     <mxGraphModel dx="1434" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -474,34 +474,19 @@
         <mxCell id="Frtpg6f8MetphW-PPXL2-14" value="线边仓" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="872" y="1770" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Frtpg6f8MetphW-PPXL2-15" value="调用退料入库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Frtpg6f8MetphW-PPXL2-15" value="创建入库单信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="504" y="1848" width="112" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="Frtpg6f8MetphW-PPXL2-16" value="WMS&lt;br&gt;退料入库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="288" y="1849" width="116" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="Frtpg6f8MetphW-PPXL2-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Frtpg6f8MetphW-PPXL2-15" target="Frtpg6f8MetphW-PPXL2-16">
+        <mxCell id="Frtpg6f8MetphW-PPXL2-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9h_THDmWDpNqSD8ymxkQ-1" target="Frtpg6f8MetphW-PPXL2-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="751" y="1902" as="sourcePoint" />
-            <mxPoint x="801" y="1852" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Frtpg6f8MetphW-PPXL2-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Frtpg6f8MetphW-PPXL2-15" target="Frtpg6f8MetphW-PPXL2-21">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="751" y="1902" as="sourcePoint" />
+            <mxPoint x="559" y="1990" as="sourcePoint" />
             <mxPoint x="560" y="1943" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Frtpg6f8MetphW-PPXL2-19" value="WMS&lt;br&gt;发送MQ通知确认退料入库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Frtpg6f8MetphW-PPXL2-19" value="WMS&lt;br&gt;新增产品入库单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="288" y="2040" width="116" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="Frtpg6f8MetphW-PPXL2-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Frtpg6f8MetphW-PPXL2-19" target="Frtpg6f8MetphW-PPXL2-21">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="504" y="1954.75" as="sourcePoint" />
-            <mxPoint x="414" y="1881" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Frtpg6f8MetphW-PPXL2-21" value="更新退料单信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Frtpg6f8MetphW-PPXL2-21" value="新增产品入库单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="503" y="2038" width="112" height="47" as="geometry" />
         </mxCell>
         <mxCell id="Frtpg6f8MetphW-PPXL2-22" value="" style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="Frtpg6f8MetphW-PPXL2-21" target="Frtpg6f8MetphW-PPXL2-9">
@@ -525,7 +510,7 @@
             <mxPoint x="877" y="1942" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Frtpg6f8MetphW-PPXL2-26" value="更新退料单信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Frtpg6f8MetphW-PPXL2-26" value="创建入库单信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="813" y="2038" width="112" height="47" as="geometry" />
         </mxCell>
         <mxCell id="Frtpg6f8MetphW-PPXL2-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Frtpg6f8MetphW-PPXL2-24" target="Frtpg6f8MetphW-PPXL2-26">
@@ -550,6 +535,21 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="751" y="1863" as="sourcePoint" />
             <mxPoint x="801" y="1813" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9h_THDmWDpNqSD8ymxkQ-1" value="处理标签状态为，已入库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="503" y="1948" width="112" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="9h_THDmWDpNqSD8ymxkQ-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Frtpg6f8MetphW-PPXL2-15" target="9h_THDmWDpNqSD8ymxkQ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="906" y="1944" as="sourcePoint" />
+            <mxPoint x="956" y="1894" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9h_THDmWDpNqSD8ymxkQ-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Frtpg6f8MetphW-PPXL2-21" target="Frtpg6f8MetphW-PPXL2-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="906" y="1944" as="sourcePoint" />
+            <mxPoint x="956" y="1894" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
