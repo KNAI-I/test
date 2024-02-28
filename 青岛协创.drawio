@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T02:51:43.687Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="av7girQ4HgtqaV0SRtny" version="23.1.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-02-28T02:54:19.927Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="ddVv7GFTtTDwTpqYChhP" version="23.1.6" type="github" pages="6">
   <diagram name="报工" id="zWo01hbF4b2UpFMgGe-W">
     <mxGraphModel dx="1434" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -261,18 +261,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_l51UJ1l_AULMFhQabjK-1" value="获取制令单物料，用报工产量根据BOM用量，计算应倒冲数量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1206" y="1581" width="148" height="62" as="geometry" />
+          <mxGeometry x="1206" y="1586" width="148" height="62" as="geometry" />
         </mxCell>
         <mxCell id="Oe4jPzHG7Kq8yYTQywKL-1" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1213" y="1522" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Oe4jPzHG7Kq8yYTQywKL-2" value="根据实际可倒冲数量&lt;br&gt;创建倒冲记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="1669" width="140" height="59" as="geometry" />
+          <mxGeometry x="1210" y="1674" width="140" height="59" as="geometry" />
         </mxCell>
         <mxCell id="Oe4jPzHG7Kq8yYTQywKL-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_l51UJ1l_AULMFhQabjK-1" target="Oe4jPzHG7Kq8yYTQywKL-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1134" y="1599" as="sourcePoint" />
-            <mxPoint x="1184" y="1549" as="targetPoint" />
+            <mxPoint x="1134" y="1604" as="sourcePoint" />
+            <mxPoint x="1184" y="1554" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Oe4jPzHG7Kq8yYTQywKL-4" value="" style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=0;" edge="1" parent="1" source="Oe4jPzHG7Kq8yYTQywKL-2">
@@ -285,7 +285,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Oe4jPzHG7Kq8yYTQywKL-6" value="1、如果（物料标签登记数量 &amp;gt; 应倒冲数量&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;）&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;b&gt;实际可倒冲数量&lt;/b&gt; &lt;b&gt;=&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b&gt;应倒冲数量&lt;/b&gt;。&lt;br&gt;&lt;br&gt;2&lt;/span&gt;、如果（应倒冲数量 &amp;gt; 物料标签登记数量）&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;b&gt;实际可倒冲数量&lt;/b&gt; &lt;b&gt;= 物料标签登记数量&lt;/b&gt;。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1408" y="1669" width="252" height="68" as="geometry" />
+          <mxGeometry x="1408" y="1673" width="252" height="68" as="geometry" />
         </mxCell>
         <mxCell id="Oe4jPzHG7Kq8yYTQywKL-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oe4jPzHG7Kq8yYTQywKL-2" target="Oe4jPzHG7Kq8yYTQywKL-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
