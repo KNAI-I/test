@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T02:56:33.235Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="V8rmE3OdTGfBJpv-V2v8" version="23.1.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-02-28T02:59:23.777Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="e8y266tI1LBl9JkHRVTE" version="23.1.6" type="github" pages="6">
   <diagram name="报工" id="zWo01hbF4b2UpFMgGe-W">
-    <mxGraphModel dx="1434" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1886" dy="806" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -215,7 +215,7 @@
             <mxPoint x="1311" y="1651" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2tOlAfwkD6prafIUVOMH-5" value="查询该部门下线边仓对应的物料标签登记记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2tOlAfwkD6prafIUVOMH-5" value="查询该部门下线边仓对应的物料标签登记" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="1453" width="147" height="49" as="geometry" />
         </mxCell>
         <mxCell id="29OlVCmLF5QXV9NPfpsS-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2tOlAfwkD6prafIUVOMH-5" target="29OlVCmLF5QXV9NPfpsS-7">
