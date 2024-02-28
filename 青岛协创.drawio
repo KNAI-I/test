@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T02:39:04.024Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="g30wmwZANBzZxWTyS7H9" version="23.1.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-02-28T02:42:31.176Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="emAP4J3Pnbgw0tk2zfqO" version="23.1.6" type="github" pages="6">
   <diagram name="报工" id="zWo01hbF4b2UpFMgGe-W">
     <mxGraphModel dx="1434" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -284,8 +284,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Oe4jPzHG7Kq8yYTQywKL-5" value="&lt;br&gt;1、如果（应倒冲数 &amp;gt; 物料标签登记的数量）, 实际可倒冲数 = 物料标签登记的数量。&lt;br&gt;2、如果（物料标签登记的数量 &amp;gt; 应倒冲数&lt;span style=&quot;background-color: initial;&quot;&gt;）,实际可倒冲数 =&amp;nbsp;&lt;/span&gt;应倒冲数" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1411" y="1671" width="469" height="61" as="geometry" />
+        <mxCell id="Oe4jPzHG7Kq8yYTQywKL-6" value="1、如果（物料标签登记数量 &amp;gt; 应倒冲数量&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;），实际可倒冲数量 =&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;应倒冲数量&lt;br&gt;2&lt;/span&gt;、如果（应倒冲数量 &amp;gt; 物料标签登记数量），实际可倒冲数量 = 物料标签登记数量。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1401" y="1669" width="480" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
