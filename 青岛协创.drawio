@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T08:03:43.487Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="jb-wdNwpdFjfhFdotKHv" version="23.1.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-03-01T06:14:23.793Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="FmCEFSe_vyMroJq2JRiu" version="23.1.7" type="github" pages="6">
   <diagram name="报工" id="zWo01hbF4b2UpFMgGe-W">
-    <mxGraphModel dx="1674" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -224,17 +224,8 @@
             <mxPoint x="1043.25" y="1525" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="29OlVCmLF5QXV9NPfpsS-5" value="" style="endArrow=classic;html=1;rounded=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;curved=0;" parent="1" source="rA4A2v2HGRDMiev4CEQb-16" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1254" y="1599" as="sourcePoint" />
-            <mxPoint x="591" y="1250" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="591" y="1425" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="29OlVCmLF5QXV9NPfpsS-6" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="547" y="1329" width="60" height="30" as="geometry" />
+          <mxGeometry x="494" y="1290" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="29OlVCmLF5QXV9NPfpsS-7" value="验证是否存在&lt;br&gt;物料标签登记" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="966.49" y="1527" width="154.62" height="52" as="geometry" />
@@ -291,6 +282,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1333" y="1599" as="sourcePoint" />
             <mxPoint x="1383" y="1549" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VQm1nMhsaKoi5rxZjUFi-1" value="" style="endArrow=classic;html=1;rounded=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;curved=0;" edge="1" parent="1" source="rA4A2v2HGRDMiev4CEQb-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1112" y="1605" as="sourcePoint" />
+            <mxPoint x="554" y="1220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="554" y="1344" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
