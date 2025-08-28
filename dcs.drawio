@@ -164,15 +164,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fjx8Qkg-eum4bkmbfZHA-8" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;废热锅炉（F202）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="576" y="350" width="67" height="17" as="geometry" />
+          <mxGeometry x="504" y="277" width="67" height="17" as="geometry" />
         </mxCell>
         <mxCell id="fjx8Qkg-eum4bkmbfZHA-10" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;高温旁路阀（E301）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="576" y="408" width="67" height="17" as="geometry" />
+          <mxGeometry x="504" y="345" width="67" height="17" as="geometry" />
         </mxCell>
         <mxCell id="fjx8Qkg-eum4bkmbfZHA-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fjx8Qkg-eum4bkmbfZHA-8" target="fjx8Qkg-eum4bkmbfZHA-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="445" y="445" as="sourcePoint" />
-            <mxPoint x="495" y="395" as="targetPoint" />
+            <mxPoint x="443" y="445" as="sourcePoint" />
+            <mxPoint x="493" y="395" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="n6LXnC0xRCPWYRdvw0Mk-1" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;精流输送泵（P103a,b）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
@@ -186,6 +186,30 @@
         </mxCell>
         <mxCell id="n6LXnC0xRCPWYRdvw0Mk-10" value="&lt;div&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font&gt;&lt;b&gt;由主风机（C301）经干燥塔（T401）干燥后的空气混合焚烧&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="414" y="158" width="156" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n6LXnC0xRCPWYRdvw0Mk-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fjx8Qkg-eum4bkmbfZHA-6" target="fjx8Qkg-eum4bkmbfZHA-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="408" y="352" as="sourcePoint" />
+            <mxPoint x="458" y="302" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n6LXnC0xRCPWYRdvw0Mk-12" value="&lt;div&gt;&lt;font&gt;&lt;b&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;生成含 SO&lt;/span&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;2&lt;/span&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;9-10%&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font&gt;&lt;b&gt;约 1000℃的高温炉气进入废热锅炉（F202）回收热量&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="545" y="238" width="156" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n6LXnC0xRCPWYRdvw0Mk-13" value="&lt;div&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font&gt;&lt;b&gt;另一部分高温炉气通过 E301&lt;br/&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font&gt;&lt;b&gt;高温旁路阀，调节 E301 出口温度在 420℃左右&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="550" y="305" width="156" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n6LXnC0xRCPWYRdvw0Mk-14" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;F201&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="504" y="405" width="67" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="n6LXnC0xRCPWYRdvw0Mk-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fjx8Qkg-eum4bkmbfZHA-10" target="n6LXnC0xRCPWYRdvw0Mk-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="473" y="355" as="sourcePoint" />
+            <mxPoint x="523" y="305" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n6LXnC0xRCPWYRdvw0Mk-16" value="&lt;div&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font&gt;&lt;b&gt;在 F201 中后部加入二次空气，强&lt;br/&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font&gt;&lt;b&gt;化燃烧。&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="550" y="367" width="156" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
