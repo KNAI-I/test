@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.1" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.1" pages="3">
   <diagram name="熔硫" id="gA8q7avwRrpRbDtcXes5">
     <mxGraphModel dx="536" dy="381" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -210,6 +210,89 @@
         </mxCell>
         <mxCell id="n6LXnC0xRCPWYRdvw0Mk-16" value="&lt;div&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font&gt;&lt;b&gt;在 F201 中后部加入二次空气，强&lt;br/&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font&gt;&lt;b&gt;化燃烧。&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="550" y="367" width="156" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="TOacQm-d55D3TUGy7DyB" name="转化">
+    <mxGraphModel dx="536" dy="381" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GKP_I2jnKU_a-lKC11bR-1" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;余热锅炉（F202）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="205" width="59" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="GKP_I2jnKU_a-lKC11bR-2" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;转化器（R301）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="358" y="205" width="56" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="GKP_I2jnKU_a-lKC11bR-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=6;" edge="1" parent="1" source="GKP_I2jnKU_a-lKC11bR-1" target="GKP_I2jnKU_a-lKC11bR-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="398" y="352" as="sourcePoint" />
+            <mxPoint x="448" y="302" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GKP_I2jnKU_a-lKC11bR-4" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;高温过热器（E301）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="450" y="197" width="54" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="GKP_I2jnKU_a-lKC11bR-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GKP_I2jnKU_a-lKC11bR-2" target="GKP_I2jnKU_a-lKC11bR-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="391" y="215" as="sourcePoint" />
+            <mxPoint x="454" y="302" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GKP_I2jnKU_a-lKC11bR-6" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;第二换热器（E302）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="571" y="198" width="54" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="GKP_I2jnKU_a-lKC11bR-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GKP_I2jnKU_a-lKC11bR-4" target="GKP_I2jnKU_a-lKC11bR-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="443" y="352" as="sourcePoint" />
+            <mxPoint x="506" y="215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GKP_I2jnKU_a-lKC11bR-8" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;快速溶硫槽（V102）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="447" y="277" width="67" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="GKP_I2jnKU_a-lKC11bR-10" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;助滤槽（V103）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="447" y="324" width="67" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="GKP_I2jnKU_a-lKC11bR-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GKP_I2jnKU_a-lKC11bR-8" target="GKP_I2jnKU_a-lKC11bR-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="322" y="435" as="sourcePoint" />
+            <mxPoint x="372" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GKP_I2jnKU_a-lKC11bR-14" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;助滤、过滤泵（P101）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="447" y="368" width="67" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="GKP_I2jnKU_a-lKC11bR-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GKP_I2jnKU_a-lKC11bR-10" target="GKP_I2jnKU_a-lKC11bR-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="322" y="435" as="sourcePoint" />
+            <mxPoint x="372" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GKP_I2jnKU_a-lKC11bR-16" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;液流过滤机（X101）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="447" y="420" width="67" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GKP_I2jnKU_a-lKC11bR-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GKP_I2jnKU_a-lKC11bR-14" target="GKP_I2jnKU_a-lKC11bR-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="322" y="435" as="sourcePoint" />
+            <mxPoint x="372" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GKP_I2jnKU_a-lKC11bR-18" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;精流槽（V104）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="447" y="464" width="67" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GKP_I2jnKU_a-lKC11bR-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GKP_I2jnKU_a-lKC11bR-16" target="GKP_I2jnKU_a-lKC11bR-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="322" y="435" as="sourcePoint" />
+            <mxPoint x="372" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GKP_I2jnKU_a-lKC11bR-24" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;从余热锅炉（F202）出来的温度 420℃左右、SO&lt;/span&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;2 &lt;/span&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;浓度在 10%左右的炉气进入&lt;br/&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;转化器(R301)一段&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="234" y="156" width="186" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GKP_I2jnKU_a-lKC11bR-25" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="284" y="294" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
