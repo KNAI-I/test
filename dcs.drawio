@@ -141,81 +141,84 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FSTNYQ_2ghUaJdWXUDka" name="焚硫">
-    <mxGraphModel dx="536" dy="381" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="673" dy="1577" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fjx8Qkg-eum4bkmbfZHA-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=6;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n6LXnC0xRCPWYRdvw0Mk-1" target="n6LXnC0xRCPWYRdvw0Mk-2">
+        <mxCell id="fjx8Qkg-eum4bkmbfZHA-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=6;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="n6LXnC0xRCPWYRdvw0Mk-1" target="n6LXnC0xRCPWYRdvw0Mk-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="264" y="218.5" as="sourcePoint" />
             <mxPoint x="298" y="219" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fjx8Qkg-eum4bkmbfZHA-4" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;主风机（C301）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="fjx8Qkg-eum4bkmbfZHA-4" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;主风机（C301）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="429" y="210" width="54" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="fjx8Qkg-eum4bkmbfZHA-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="n6LXnC0xRCPWYRdvw0Mk-2" target="fjx8Qkg-eum4bkmbfZHA-4">
+        <mxCell id="fjx8Qkg-eum4bkmbfZHA-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="n6LXnC0xRCPWYRdvw0Mk-2" target="fjx8Qkg-eum4bkmbfZHA-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="393" y="219" as="sourcePoint" />
             <mxPoint x="455" y="307" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fjx8Qkg-eum4bkmbfZHA-6" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;干燥塔（T401）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="fjx8Qkg-eum4bkmbfZHA-6" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;干燥塔（T401）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="510" y="211" width="54" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="fjx8Qkg-eum4bkmbfZHA-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fjx8Qkg-eum4bkmbfZHA-4" target="fjx8Qkg-eum4bkmbfZHA-6">
+        <mxCell id="fjx8Qkg-eum4bkmbfZHA-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fjx8Qkg-eum4bkmbfZHA-4" target="fjx8Qkg-eum4bkmbfZHA-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="444" y="357" as="sourcePoint" />
             <mxPoint x="507" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fjx8Qkg-eum4bkmbfZHA-8" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;废热锅炉（F202）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="fjx8Qkg-eum4bkmbfZHA-8" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;废热锅炉（F202）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="504" y="277" width="67" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="fjx8Qkg-eum4bkmbfZHA-10" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;高温旁路阀（E301）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="fjx8Qkg-eum4bkmbfZHA-10" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;高温旁路阀（E301）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="504" y="345" width="67" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="fjx8Qkg-eum4bkmbfZHA-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fjx8Qkg-eum4bkmbfZHA-8" target="fjx8Qkg-eum4bkmbfZHA-10">
+        <mxCell id="fjx8Qkg-eum4bkmbfZHA-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fjx8Qkg-eum4bkmbfZHA-8" target="fjx8Qkg-eum4bkmbfZHA-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="443" y="445" as="sourcePoint" />
             <mxPoint x="493" y="395" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n6LXnC0xRCPWYRdvw0Mk-1" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;精流输送泵（P103a,b）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="n6LXnC0xRCPWYRdvw0Mk-1" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;精流输送泵（P103a,b）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="227" y="202" width="67" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="n6LXnC0xRCPWYRdvw0Mk-2" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;焚硫炉（F201）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="n6LXnC0xRCPWYRdvw0Mk-2" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;焚硫炉（F201）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="328" y="208.5" width="67" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="n6LXnC0xRCPWYRdvw0Mk-9" value="输送至磺枪&lt;div&gt;经机械雾化喷入&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="n6LXnC0xRCPWYRdvw0Mk-9" value="输送至磺枪&lt;div&gt;经机械雾化喷入&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="266" y="158" width="89" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n6LXnC0xRCPWYRdvw0Mk-10" value="&lt;div&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font&gt;&lt;b&gt;由主风机（C301）经干燥塔（T401）干燥后的空气混合焚烧&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="n6LXnC0xRCPWYRdvw0Mk-10" value="&lt;div&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font&gt;&lt;b&gt;由主风机（C301）经干燥塔（T401）干燥后的空气混合焚烧&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="414" y="158" width="156" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n6LXnC0xRCPWYRdvw0Mk-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fjx8Qkg-eum4bkmbfZHA-6" target="fjx8Qkg-eum4bkmbfZHA-8">
+        <mxCell id="n6LXnC0xRCPWYRdvw0Mk-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fjx8Qkg-eum4bkmbfZHA-6" target="fjx8Qkg-eum4bkmbfZHA-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="408" y="352" as="sourcePoint" />
             <mxPoint x="458" y="302" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n6LXnC0xRCPWYRdvw0Mk-12" value="&lt;div&gt;&lt;font&gt;&lt;b&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;生成含 SO&lt;/span&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;2&lt;/span&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;9-10%&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font&gt;&lt;b&gt;约 1000℃的高温炉气进入废热锅炉（F202）回收热量&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="n6LXnC0xRCPWYRdvw0Mk-12" value="&lt;div&gt;&lt;font&gt;&lt;b&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;生成含 SO&lt;/span&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;2&lt;/span&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;9-10%&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font&gt;&lt;b&gt;约 1000℃的高温炉气进入废热锅炉（F202）回收热量&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="545" y="238" width="156" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n6LXnC0xRCPWYRdvw0Mk-13" value="&lt;div&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font&gt;&lt;b&gt;另一部分高温炉气通过 E301&lt;br/&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font&gt;&lt;b&gt;高温旁路阀，调节 E301 出口温度在 420℃左右&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="n6LXnC0xRCPWYRdvw0Mk-13" value="&lt;div&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font&gt;&lt;b&gt;另一部分高温炉气通过 E301&lt;br/&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font&gt;&lt;b&gt;高温旁路阀，调节 E301 出口温度在 420℃左右&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="550" y="305" width="156" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n6LXnC0xRCPWYRdvw0Mk-14" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;F201&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="n6LXnC0xRCPWYRdvw0Mk-14" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;F201&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="504" y="405" width="67" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="n6LXnC0xRCPWYRdvw0Mk-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fjx8Qkg-eum4bkmbfZHA-10" target="n6LXnC0xRCPWYRdvw0Mk-14">
+        <mxCell id="n6LXnC0xRCPWYRdvw0Mk-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fjx8Qkg-eum4bkmbfZHA-10" target="n6LXnC0xRCPWYRdvw0Mk-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="473" y="355" as="sourcePoint" />
             <mxPoint x="523" y="305" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n6LXnC0xRCPWYRdvw0Mk-16" value="&lt;div&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font&gt;&lt;b&gt;在 F201 中后部加入二次空气，强&lt;br/&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font&gt;&lt;b&gt;化燃烧。&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="n6LXnC0xRCPWYRdvw0Mk-16" value="&lt;div&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font&gt;&lt;b&gt;在 F201 中后部加入二次空气，强&lt;br/&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font&gt;&lt;b&gt;化燃烧。&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="550" y="367" width="156" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zFgkArdI2ttYPyhN-mRC-1" value="&lt;div&gt;&lt;span style=&quot;font-family: SimSun;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;1.1 岗位职责&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: SimSun;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;负责本岗位范围内所有设备安全运转，按章操作，搞好本岗位的安全文明生产，&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: SimSun;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;保证液硫过滤质量和液硫的正常输送。&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: SimSun;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;1.2 工作任务&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: SimSun;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;1.2.1 负责原料硫磺入库的接、卸，并做好计量；&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: SimSun;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;1.2.2 将固体硫磺经过熔化、过滤、储存，为焚硫炉提供合格液体硫磺；&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: SimSun;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;1.2.3 及时清除熔硫槽中固体杂质，及时加生石灰中和熔硫槽中浮酸；&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: SimSun;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;1.2.4 保持各槽中液硫温度、液位在规定的范围内，维护好岗位内的各机电设&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px; font-family: SimSun; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;备、仪表；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: SimSun;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;1.2.5 密切与关联岗位联系，防范磺库与熔硫火灾；&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: SimSun;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;1.2.6 保持区域和设备的清洁卫生，下班前清擦一次；&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: SimSun;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;1.2.7 包装袋整理打包入库。&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: SimSun;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;1. 3 管辖范围&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: SimSun;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;从原料硫磺入库到进入焚硫炉止，此范围内的一切建筑物、设备、仪表、电气、&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px; font-family: SimSun; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;管线、阀门等。&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="219" y="-95" width="431.5" height="227" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
