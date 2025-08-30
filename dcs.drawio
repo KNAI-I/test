@@ -1,121 +1,121 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.1" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2" pages="3">
   <diagram name="熔硫" id="gA8q7avwRrpRbDtcXes5">
-    <mxGraphModel dx="536" dy="381" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="630" dy="381" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WBcMtoC_5MCELgaeJtg4-2" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;固体硫磺 +生石灰&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="WBcMtoC_5MCELgaeJtg4-2" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;固体硫磺 +生石灰&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="196" y="299" width="59" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="WBcMtoC_5MCELgaeJtg4-4" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;装载机&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="WBcMtoC_5MCELgaeJtg4-4" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;装载机&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="289" y="299" width="43" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="WBcMtoC_5MCELgaeJtg4-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=6;" edge="1" parent="1" source="WBcMtoC_5MCELgaeJtg4-2" target="WBcMtoC_5MCELgaeJtg4-4">
+        <mxCell id="WBcMtoC_5MCELgaeJtg4-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=6;" parent="1" source="WBcMtoC_5MCELgaeJtg4-2" target="WBcMtoC_5MCELgaeJtg4-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="344" y="446" as="sourcePoint" />
             <mxPoint x="394" y="396" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WBcMtoC_5MCELgaeJtg4-6" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;上料仓（V101）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="WBcMtoC_5MCELgaeJtg4-6" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;上料仓（V101）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="368" y="299" width="54" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="WBcMtoC_5MCELgaeJtg4-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WBcMtoC_5MCELgaeJtg4-4" target="WBcMtoC_5MCELgaeJtg4-6">
+        <mxCell id="WBcMtoC_5MCELgaeJtg4-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="WBcMtoC_5MCELgaeJtg4-4" target="WBcMtoC_5MCELgaeJtg4-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="331" y="309" as="sourcePoint" />
             <mxPoint x="394" y="396" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WBcMtoC_5MCELgaeJtg4-8" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;皮带机（L101）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="WBcMtoC_5MCELgaeJtg4-8" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;皮带机（L101）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="449" y="300" width="54" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="WBcMtoC_5MCELgaeJtg4-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WBcMtoC_5MCELgaeJtg4-6" target="WBcMtoC_5MCELgaeJtg4-8">
+        <mxCell id="WBcMtoC_5MCELgaeJtg4-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WBcMtoC_5MCELgaeJtg4-6" target="WBcMtoC_5MCELgaeJtg4-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="383" y="446" as="sourcePoint" />
             <mxPoint x="446" y="309" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WBcMtoC_5MCELgaeJtg4-13" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;快速溶硫槽（V102）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="WBcMtoC_5MCELgaeJtg4-13" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;快速溶硫槽（V102）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="530" y="300" width="67" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="WBcMtoC_5MCELgaeJtg4-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WBcMtoC_5MCELgaeJtg4-8" target="WBcMtoC_5MCELgaeJtg4-13">
+        <mxCell id="WBcMtoC_5MCELgaeJtg4-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WBcMtoC_5MCELgaeJtg4-8" target="WBcMtoC_5MCELgaeJtg4-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="374" y="458" as="sourcePoint" />
             <mxPoint x="424" y="408" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WBcMtoC_5MCELgaeJtg4-15" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;助滤槽（V103）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="WBcMtoC_5MCELgaeJtg4-15" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;助滤槽（V103）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="530" y="347" width="67" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="WBcMtoC_5MCELgaeJtg4-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WBcMtoC_5MCELgaeJtg4-13" target="WBcMtoC_5MCELgaeJtg4-15">
+        <mxCell id="WBcMtoC_5MCELgaeJtg4-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WBcMtoC_5MCELgaeJtg4-13" target="WBcMtoC_5MCELgaeJtg4-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="405" y="458" as="sourcePoint" />
             <mxPoint x="455" y="408" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WBcMtoC_5MCELgaeJtg4-19" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;适量硅藻土&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="WBcMtoC_5MCELgaeJtg4-19" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;适量硅藻土&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="432" y="347" width="67" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="WBcMtoC_5MCELgaeJtg4-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WBcMtoC_5MCELgaeJtg4-19" target="WBcMtoC_5MCELgaeJtg4-15">
+        <mxCell id="WBcMtoC_5MCELgaeJtg4-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WBcMtoC_5MCELgaeJtg4-19" target="WBcMtoC_5MCELgaeJtg4-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="405" y="458" as="sourcePoint" />
             <mxPoint x="527" y="354" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WBcMtoC_5MCELgaeJtg4-21" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;助滤、过滤泵（P101）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="WBcMtoC_5MCELgaeJtg4-21" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;助滤、过滤泵（P101）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="530" y="391" width="67" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="WBcMtoC_5MCELgaeJtg4-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WBcMtoC_5MCELgaeJtg4-15" target="WBcMtoC_5MCELgaeJtg4-21">
+        <mxCell id="WBcMtoC_5MCELgaeJtg4-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WBcMtoC_5MCELgaeJtg4-15" target="WBcMtoC_5MCELgaeJtg4-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="405" y="458" as="sourcePoint" />
             <mxPoint x="455" y="408" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WBcMtoC_5MCELgaeJtg4-23" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;液流过滤机（X101）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="WBcMtoC_5MCELgaeJtg4-23" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;液流过滤机（X101）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="530" y="443" width="67" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="WBcMtoC_5MCELgaeJtg4-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WBcMtoC_5MCELgaeJtg4-21" target="WBcMtoC_5MCELgaeJtg4-23">
+        <mxCell id="WBcMtoC_5MCELgaeJtg4-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WBcMtoC_5MCELgaeJtg4-21" target="WBcMtoC_5MCELgaeJtg4-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="405" y="458" as="sourcePoint" />
             <mxPoint x="455" y="408" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WBcMtoC_5MCELgaeJtg4-25" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;精流槽（V104）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="WBcMtoC_5MCELgaeJtg4-25" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;精流槽（V104）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="530" y="487" width="67" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="WBcMtoC_5MCELgaeJtg4-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WBcMtoC_5MCELgaeJtg4-23" target="WBcMtoC_5MCELgaeJtg4-25">
+        <mxCell id="WBcMtoC_5MCELgaeJtg4-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WBcMtoC_5MCELgaeJtg4-23" target="WBcMtoC_5MCELgaeJtg4-25" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="405" y="458" as="sourcePoint" />
             <mxPoint x="455" y="408" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WBcMtoC_5MCELgaeJtg4-27" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;精流输送泵（P103a,b）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="WBcMtoC_5MCELgaeJtg4-27" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;精流输送泵（P103a,b）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="432" y="480.5" width="67" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="WBcMtoC_5MCELgaeJtg4-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WBcMtoC_5MCELgaeJtg4-25" target="WBcMtoC_5MCELgaeJtg4-27">
+        <mxCell id="WBcMtoC_5MCELgaeJtg4-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WBcMtoC_5MCELgaeJtg4-25" target="WBcMtoC_5MCELgaeJtg4-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="405" y="458" as="sourcePoint" />
             <mxPoint x="455" y="408" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WBcMtoC_5MCELgaeJtg4-30" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;焚硫炉（F201）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="WBcMtoC_5MCELgaeJtg4-30" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;焚硫炉（F201）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="334" y="487" width="67" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="WBcMtoC_5MCELgaeJtg4-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WBcMtoC_5MCELgaeJtg4-27" target="WBcMtoC_5MCELgaeJtg4-30">
+        <mxCell id="WBcMtoC_5MCELgaeJtg4-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WBcMtoC_5MCELgaeJtg4-27" target="WBcMtoC_5MCELgaeJtg4-30" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="405" y="458" as="sourcePoint" />
             <mxPoint x="455" y="408" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WBcMtoC_5MCELgaeJtg4-32" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;冷凝水收集槽（V2005）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="WBcMtoC_5MCELgaeJtg4-32" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;冷凝水收集槽（V2005）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="332" y="525" width="67" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="WBcMtoC_5MCELgaeJtg4-34" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;冷凝水输送泵（P104a,b）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="WBcMtoC_5MCELgaeJtg4-34" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;冷凝水输送泵（P104a,b）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="207" y="525" width="67" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="WBcMtoC_5MCELgaeJtg4-36" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;低压蒸汽管网&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="WBcMtoC_5MCELgaeJtg4-36" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;低压蒸汽管网&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="196" y="271" width="67" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="WBcMtoC_5MCELgaeJtg4-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="WBcMtoC_5MCELgaeJtg4-36" target="WBcMtoC_5MCELgaeJtg4-32">
+        <mxCell id="WBcMtoC_5MCELgaeJtg4-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="WBcMtoC_5MCELgaeJtg4-36" target="WBcMtoC_5MCELgaeJtg4-32" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="405" y="458" as="sourcePoint" />
             <mxPoint x="667" y="292" as="targetPoint" />
@@ -125,11 +125,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WBcMtoC_5MCELgaeJtg4-41" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WBcMtoC_5MCELgaeJtg4-32" target="WBcMtoC_5MCELgaeJtg4-34">
+        <mxCell id="WBcMtoC_5MCELgaeJtg4-41" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="WBcMtoC_5MCELgaeJtg4-32" target="WBcMtoC_5MCELgaeJtg4-34" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="405" y="458" as="sourcePoint" />
             <mxPoint x="455" y="408" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6eRk4w6924ohL_UdEgZ7-1" value="&lt;div&gt;&lt;span style=&quot;font-family: SimSun;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;1.1 岗位职责&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: SimSun;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;负责本岗位范围内所有设备安全运转，按章操作，搞好本岗位的安全文明生产，&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: SimSun;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;保证液硫过滤质量和液硫的正常输送。&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: SimSun;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;1.2 工作任务&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: SimSun;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;1.2.1 负责原料硫磺入库的接、卸，并做好计量；&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: SimSun;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;1.2.2 将固体硫磺经过熔化、过滤、储存，为焚硫炉提供合格液体硫磺；&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: SimSun;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;1.2.3 及时清除熔硫槽中固体杂质，及时加生石灰中和熔硫槽中浮酸；&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: SimSun;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;1.2.4 保持各槽中液硫温度、液位在规定的范围内，维护好岗位内的各机电设&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px; font-family: SimSun; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;备、仪表；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: SimSun;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;1.2.5 密切与关联岗位联系，防范磺库与熔硫火灾；&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: SimSun;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;1.2.6 保持区域和设备的清洁卫生，下班前清擦一次；&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: SimSun;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;1.2.7 包装袋整理打包入库。&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: SimSun;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;1. 3 管辖范围&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: SimSun;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;从原料硫磺入库到进入焚硫炉止，此范围内的一切建筑物、设备、仪表、电气、&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px; font-family: SimSun; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;管线、阀门等。&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="198" y="30" width="431.5" height="227" as="geometry" />
+        </mxCell>
+        <mxCell id="6eRk4w6924ohL_UdEgZ7-2" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;工艺流程&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-family: SimSun;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;将固体硫磺与适量的生石灰混合后用装载机铲入上料仓（V101）中，经过皮带&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: SimSun;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;机（L101）将固体硫磺送入快速熔硫槽（V102）内，熔化后的液硫从溢流口溢流至&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: SimSun;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;助滤槽（V103）内，向助滤槽内加入适量硅藻土。液硫由助滤、过滤泵（P101）输&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: SimSun;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;送到液硫过滤机（X101）过滤，滤后的精硫流至精硫槽（V104），经精硫输送泵&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: SimSun;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;（P103a,b）送到焚硫炉（F201）内燃烧。&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: SimSun;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;本岗位所有低压蒸汽来自低压蒸汽管网，蒸汽冷凝水集中排入冷凝水收集槽&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: SimSun;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;（V2005）并由冷凝水输送泵（P104a,b）外排回用。&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="196" y="606" width="378" height="138" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
